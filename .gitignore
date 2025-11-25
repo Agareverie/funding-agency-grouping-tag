@@ -1,0 +1,34 @@
+# Conda environment
+env/
+
+# Python-generated files
+__pycache__/
+*.egg-info/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+resources/data/raw/*
+resources/data/processed/*
+resources/models/*
+resources/plots/*
+
+!resources/data/raw/.gitkeep
+!resources/data/processed/.gitkeep
+!resources/models/.gitkeep
+!resources/plots/.gitkeep
+
+src/data/cookie

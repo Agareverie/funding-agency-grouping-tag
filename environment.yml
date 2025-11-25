@@ -1,0 +1,15 @@
+name: fag-tag
+dependencies:
+  - python=3.12
+  - pip
+  - jupyter
+  - ipykernel
+  - numpy
+  - pandas
+  - plotly
+  - streamlit
+  - scikit-learn
+  - fastapi
+  - pip:
+      - "uvicorn[standard]"
+      - -e .
