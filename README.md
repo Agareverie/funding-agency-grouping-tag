@@ -1,4 +1,4 @@
-# F*gTag
+# Funding Agency Grouping Tag
 
 **Funding Agency Grouping Tag**, also known as *F\*gTag*, is a clustering project made for the **219051 DATA SCIENCE** subject using the Scopus dataset.
 
