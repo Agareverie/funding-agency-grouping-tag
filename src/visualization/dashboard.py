@@ -59,7 +59,7 @@ cluster_colors = {
 
 
 x = st.sidebar.selectbox("X-Axis", categories)
-y = st.sidebar.selectbox("Y-Axis", categories)
+y = st.sidebar.selectbox("Y-Axis", [category for category in categories if category != x])
 
 if "slice_selection" not in st.session_state:
     st.session_state.slice_selection = None
