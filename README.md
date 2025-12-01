@@ -25,6 +25,26 @@ The env/ folder is ignored by Git, recreate it using `environment.yml`, This ins
 conda activate ./env
 ```
 
+## Opening up the applications
+
+After you put in the necessary data inside your repo:
+
+- `resources/data/processed/grant_data.csv` (From clusteredGrantData)  **\*Mandatory for the eda.ipynb notebook.**
+- `resources/data/processed/grant_clustered_data.csv` (From clusteredGrantData) **\*Mandatory for API, can be generated using the notebook but that requires the previous file.**
+- `resources/data/raw/{year}.json` (From ScopusCombined, all years)
+
+You should be able to run the FastAPI file to activate the uvicorn server.
+
+```bash
+uvicorn src.api.app:app --reload
+```
+
+To use streamlit, open a new terminal simultaneously with the FastAPI.
+
+```bash
+streamlit run src/visualization/dashboard.py
+```
+
 ## Contribution
 
 When contributing to the project, please make sure to alias your `import`s according to this system, with standard library imports first, then dependencies second, then local files third:
