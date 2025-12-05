@@ -33,28 +33,53 @@ categories = [
     "VETE",
 ]
 
+cluster_labels = {
+    -1: "Unclustered",
+    0: "Materials Science, Physics and Engineering",
+    1: "Psychology",
+    2: "Biochemistry",
+    3: "Immunology and Microbiology",
+    4: "Multidisciplinary",
+    5: "Neuroscience",
+    6: "Physics",
+    7: "Social Sciences",
+    8: "Agricultural Science",
+    9: "Chemical Engineering",
+    10: "Nursing",
+    11: "Chemistry",
+    12: "Earth Science", 
+    13: "Pharmacology",
+    14: "Environmental Science",
+    15: "Veterinary Science",
+    16: "Chemistry, Pharmacology and Biochemistry",
+    17: "Energy and Engineering",
+    18: "Generalists",
+    19: "Computer Science and Math",
+}
+
+
 cluster_colors = {
-    "-1": "#A0A0A0",  # Unclustered
-    "0": "#1F77B4",  # Materials/Physics/Engineering
-    "1": "#FF7F0E",  # Psychology
-    "2": "#2CA02C",  # Biochemistry
-    "3": "#D62728",  # Immunology/Microbiology
-    "4": "#9467BD",  # Multidisciplinary
-    "5": "#8C564B",  # Neuroscience
-    "6": "#17BECF",  # Physics
-    "7": "#BCBD22",  # Social Sciences
-    "8": "#8FD175",  # Agricultural Science
-    "9": "#FF9896",  # Chemical Engineering
-    "10": "#AEC7E8",  # Nursing
-    "11": "#1F77B4",  # Chemistry
-    "12": "#9EDAE5",  # Earth Science
-    "13": "#E377C2",  # Pharmacology
-    "14": "#2E8B57",  # Environmental Science
-    "15": "#C49C94",  # Veterinary Science
-    "16": "#7F7F7F",  # Chem/Pharm/Biochem mix
-    "17": "#4E79A7",  # Energy/Engineering
-    "18": "#F7B6D2",  # Generalists/Medical mix
-    "19": "#4C72B0",  # Computer Science & Math
+    "Unclustered": "#A0A0A0",  # Unclustered
+    "Materials Science, Physics and Engineering": "#1F77B4",  # Materials/Physics/Engineering
+    "Psychology": "#FF7F0E",  # Psychology
+    "Biochemistry": "#2CA02C",  # Biochemistry
+    "Immunology and Microbiology": "#D62728",  # Immunology/Microbiology
+    "Multidisciplinary": "#9467BD",  # Multidisciplinary
+    "Neuroscience": "#8C564B",  # Neuroscience
+    "Physics": "#17BECF",  # Physics
+    "Social Sciences": "#BCBD22",  # Social Sciences
+    "Agricultural Science": "#8FD175",  # Agricultural Science
+    "Chemical Engineering": "#FF9896",  # Chemical Engineering
+    "Nursing": "#AEC7E8",  # Nursing
+    "Chemistry": "#1F77B4",  # Chemistry
+    "Earth Science": "#9EDAE5",  # Earth Science
+    "Pharmacology": "#E377C2",  # Pharmacology
+    "Environmental Science": "#2E8B57",  # Environmental Science
+    "Veterinary Science": "#C49C94",  # Veterinary Science
+    "Chemistry, Pharmacology and Biochemistry": "#7F7F7F",  # Chem/Pharm/Biochem mix
+    "Energy and Engineering": "#4E79A7",  # Energy/Engineering
+    "Generalists": "#F7B6D2",  # Generalists/Medical mix
+    "Computer Science and Math": "#4C72B0",  # Computer Science & Math
 }
 
 
@@ -92,8 +117,8 @@ if st.session_state.slice_selection is not None:
         aggregated_data,
         x=aggregated_data.x,
         y=aggregated_data.y,
-        color=aggregated_data.cluster.astype(str),
-        labels={"x": x, "y": y},
+        color=aggregated_data.cluster.map(cluster_labels),
+        labels={"x": x, "y": y, "color": "cluster"},
         color_discrete_map=cluster_colors,
         size=aggregated_data.plot_size,
         size_max=40,
