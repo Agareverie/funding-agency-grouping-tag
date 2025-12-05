@@ -1,8 +1,8 @@
-# Funding Agency Grouping Tag
+# Chatters' Grant-PT
 
-**Funding Agency Grouping Tag**, also known as *F\*gTag*, is a clustering project made for the **219051 DATA SCIENCE** subject using the Scopus dataset.
+**Grant-PT**, also known as *GPT*, is a clustering project made for the **219051 DATA SCIENCE** subject using the Scopus dataset.
 
-## Chatters (Group Members)
+## Group Members
 
 1. FirstName LastName #67//////21
 2. FirstName LastName #67//////21

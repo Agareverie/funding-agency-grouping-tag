@@ -1,4 +1,4 @@
-name: fag-tag
+name: grant-pt
 dependencies:
   - python=3.12
   - pip
