@@ -1,0 +1,2117 @@
+{
+    "MEDI": {
+        "groupName": "MEDI",
+        "subjectAreas": {
+            "2700": {
+                "name": "Medicine (all)",
+                "groupName": "MEDI",
+                "code": "2700",
+                "frequency": 680
+            },
+            "2701": {
+                "name": "Medicine (miscellaneous)",
+                "groupName": "MEDI",
+                "code": "2701",
+                "frequency": 173
+            },
+            "2702": {
+                "name": "Anatomy",
+                "groupName": "MEDI",
+                "code": "2702",
+                "frequency": 34
+            },
+            "2703": {
+                "name": "Anesthesiology and Pain Medicine",
+                "groupName": "MEDI",
+                "code": "2703",
+                "frequency": 47
+            },
+            "2704": {
+                "name": "Biochemistry (medical)",
+                "groupName": "MEDI",
+                "code": "2704",
+                "frequency": 38
+            },
+            "2705": {
+                "name": "Cardiology and Cardiovascular Medicine",
+                "groupName": "MEDI",
+                "code": "2705",
+                "frequency": 171
+            },
+            "2706": {
+                "name": "Critical Care and Intensive Care Medicine",
+                "groupName": "MEDI",
+                "code": "2706",
+                "frequency": 88
+            },
+            "2707": {
+                "name": "Complementary and Alternative Medicine",
+                "groupName": "MEDI",
+                "code": "2707",
+                "frequency": 141
+            },
+            "2708": {
+                "name": "Dermatology",
+                "groupName": "MEDI",
+                "code": "2708",
+                "frequency": 157
+            },
+            "2711": {
+                "name": "Emergency Medicine",
+                "groupName": "MEDI",
+                "code": "2711",
+                "frequency": 29
+            },
+            "2712": {
+                "name": "Endocrinology, Diabetes and Metabolism",
+                "groupName": "MEDI",
+                "code": "2712",
+                "frequency": 131
+            },
+            "2713": {
+                "name": "Epidemiology",
+                "groupName": "MEDI",
+                "code": "2713",
+                "frequency": 114
+            },
+            "2714": {
+                "name": "Family Practice",
+                "groupName": "MEDI",
+                "code": "2714",
+                "frequency": 1
+            },
+            "2715": {
+                "name": "Gastroenterology",
+                "groupName": "MEDI",
+                "code": "2715",
+                "frequency": 255
+            },
+            "2716": {
+                "name": "Genetics (clinical)",
+                "groupName": "MEDI",
+                "code": "2716",
+                "frequency": 72
+            },
+            "2717": {
+                "name": "Geriatrics and Gerontology",
+                "groupName": "MEDI",
+                "code": "2717",
+                "frequency": 75
+            },
+            "2718": {
+                "name": "Health Informatics",
+                "groupName": "MEDI",
+                "code": "2718",
+                "frequency": 81
+            },
+            "2719": {
+                "name": "Health Policy",
+                "groupName": "MEDI",
+                "code": "2719",
+                "frequency": 249
+            },
+            "2720": {
+                "name": "Hematology",
+                "groupName": "MEDI",
+                "code": "2720",
+                "frequency": 181
+            },
+            "2721": {
+                "name": "Hepatology",
+                "groupName": "MEDI",
+                "code": "2721",
+                "frequency": 126
+            },
+            "2722": {
+                "name": "Histology",
+                "groupName": "MEDI",
+                "code": "2722",
+                "frequency": 47
+            },
+            "2723": {
+                "name": "Immunology and Allergy",
+                "groupName": "MEDI",
+                "code": "2723",
+                "frequency": 306
+            },
+            "2724": {
+                "name": "Internal Medicine",
+                "groupName": "MEDI",
+                "code": "2724",
+                "frequency": 60
+            },
+            "2725": {
+                "name": "Infectious Diseases",
+                "groupName": "MEDI",
+                "code": "2725",
+                "frequency": 753
+            },
+            "2726": {
+                "name": "Microbiology (medical)",
+                "groupName": "MEDI",
+                "code": "2726",
+                "frequency": 264
+            },
+            "2727": {
+                "name": "Nephrology",
+                "groupName": "MEDI",
+                "code": "2727",
+                "frequency": 176
+            },
+            "2728": {
+                "name": "Neurology (clinical)",
+                "groupName": "MEDI",
+                "code": "2728",
+                "frequency": 314
+            },
+            "2729": {
+                "name": "Obstetrics and Gynecology",
+                "groupName": "MEDI",
+                "code": "2729",
+                "frequency": 121
+            },
+            "2730": {
+                "name": "Oncology",
+                "groupName": "MEDI",
+                "code": "2730",
+                "frequency": 276
+            },
+            "2731": {
+                "name": "Ophthalmology",
+                "groupName": "MEDI",
+                "code": "2731",
+                "frequency": 130
+            },
+            "2732": {
+                "name": "Orthopedics and Sports Medicine",
+                "groupName": "MEDI",
+                "code": "2732",
+                "frequency": 184
+            },
+            "2733": {
+                "name": "Otorhinolaryngology",
+                "groupName": "MEDI",
+                "code": "2733",
+                "frequency": 178
+            },
+            "2734": {
+                "name": "Pathology and Forensic Medicine",
+                "groupName": "MEDI",
+                "code": "2734",
+                "frequency": 103
+            },
+            "2735": {
+                "name": "Pediatrics, Perinatology and Child Health",
+                "groupName": "MEDI",
+                "code": "2735",
+                "frequency": 198
+            },
+            "2736": {
+                "name": "Pharmacology (medical)",
+                "groupName": "MEDI",
+                "code": "2736",
+                "frequency": 306
+            },
+            "2737": {
+                "name": "Physiology (medical)",
+                "groupName": "MEDI",
+                "code": "2737",
+                "frequency": 97
+            },
+            "2738": {
+                "name": "Psychiatry and Mental Health",
+                "groupName": "MEDI",
+                "code": "2738",
+                "frequency": 196
+            },
+            "2739": {
+                "name": "Public Health, Environmental and Occupational Health",
+                "groupName": "MEDI",
+                "code": "2739",
+                "frequency": 664
+            },
+            "2740": {
+                "name": "Pulmonary and Respiratory Medicine",
+                "groupName": "MEDI",
+                "code": "2740",
+                "frequency": 83
+            },
+            "2741": {
+                "name": "Radiology, Nuclear Medicine and Imaging",
+                "groupName": "MEDI",
+                "code": "2741",
+                "frequency": 242
+            },
+            "2742": {
+                "name": "Rehabilitation",
+                "groupName": "MEDI",
+                "code": "2742",
+                "frequency": 54
+            },
+            "2743": {
+                "name": "Reproductive Medicine",
+                "groupName": "MEDI",
+                "code": "2743",
+                "frequency": 21
+            },
+            "2745": {
+                "name": "Rheumatology",
+                "groupName": "MEDI",
+                "code": "2745",
+                "frequency": 33
+            },
+            "2746": {
+                "name": "Surgery",
+                "groupName": "MEDI",
+                "code": "2746",
+                "frequency": 345
+            },
+            "2747": {
+                "name": "Transplantation",
+                "groupName": "MEDI",
+                "code": "2747",
+                "frequency": 55
+            },
+            "2748": {
+                "name": "Urology",
+                "groupName": "MEDI",
+                "code": "2748",
+                "frequency": 60
+            }
+        },
+        "frequency": 8109,
+        "overlapFrequency": 5639
+    },
+    "ENGI": {
+        "groupName": "ENGI",
+        "subjectAreas": {
+            "2200": {
+                "name": "Engineering (all)",
+                "groupName": "ENGI",
+                "code": "2200",
+                "frequency": 635
+            },
+            "2201": {
+                "name": "Engineering (miscellaneous)",
+                "groupName": "ENGI",
+                "code": "2201",
+                "frequency": 244
+            },
+            "2202": {
+                "name": "Aerospace Engineering",
+                "groupName": "ENGI",
+                "code": "2202",
+                "frequency": 30
+            },
+            "2203": {
+                "name": "Automotive Engineering",
+                "groupName": "ENGI",
+                "code": "2203",
+                "frequency": 60
+            },
+            "2204": {
+                "name": "Biomedical Engineering",
+                "groupName": "ENGI",
+                "code": "2204",
+                "frequency": 196
+            },
+            "2205": {
+                "name": "Civil and Structural Engineering",
+                "groupName": "ENGI",
+                "code": "2205",
+                "frequency": 304
+            },
+            "2206": {
+                "name": "Computational Mechanics",
+                "groupName": "ENGI",
+                "code": "2206",
+                "frequency": 30
+            },
+            "2207": {
+                "name": "Control and Systems Engineering",
+                "groupName": "ENGI",
+                "code": "2207",
+                "frequency": 165
+            },
+            "2208": {
+                "name": "Electrical and Electronic Engineering",
+                "groupName": "ENGI",
+                "code": "2208",
+                "frequency": 705
+            },
+            "2209": {
+                "name": "Industrial and Manufacturing Engineering",
+                "groupName": "ENGI",
+                "code": "2209",
+                "frequency": 276
+            },
+            "2210": {
+                "name": "Mechanical Engineering",
+                "groupName": "ENGI",
+                "code": "2210",
+                "frequency": 438
+            },
+            "2211": {
+                "name": "Mechanics of Materials",
+                "groupName": "ENGI",
+                "code": "2211",
+                "frequency": 459
+            },
+            "2212": {
+                "name": "Ocean Engineering",
+                "groupName": "ENGI",
+                "code": "2212",
+                "frequency": 45
+            },
+            "2213": {
+                "name": "Safety, Risk, Reliability and Quality",
+                "groupName": "ENGI",
+                "code": "2213",
+                "frequency": 194
+            },
+            "2214": {
+                "name": "Media Technology",
+                "groupName": "ENGI",
+                "code": "2214",
+                "frequency": 43
+            },
+            "2215": {
+                "name": "Building and Construction",
+                "groupName": "ENGI",
+                "code": "2215",
+                "frequency": 278
+            },
+            "2216": {
+                "name": "Architecture",
+                "groupName": "ENGI",
+                "code": "2216",
+                "frequency": 70
+            }
+        },
+        "frequency": 4172,
+        "overlapFrequency": 2994
+    },
+    "MATE": {
+        "groupName": "MATE",
+        "subjectAreas": {
+            "2500": {
+                "name": "Materials Science (all)",
+                "groupName": "MATE",
+                "code": "2500",
+                "frequency": 907
+            },
+            "2501": {
+                "name": "Materials Science (miscellaneous)",
+                "groupName": "MATE",
+                "code": "2501",
+                "frequency": 71
+            },
+            "2502": {
+                "name": "Biomaterials",
+                "groupName": "MATE",
+                "code": "2502",
+                "frequency": 161
+            },
+            "2503": {
+                "name": "Ceramics and Composites",
+                "groupName": "MATE",
+                "code": "2503",
+                "frequency": 118
+            },
+            "2504": {
+                "name": "Electronic, Optical and Magnetic Materials",
+                "groupName": "MATE",
+                "code": "2504",
+                "frequency": 306
+            },
+            "2505": {
+                "name": "Materials Chemistry",
+                "groupName": "MATE",
+                "code": "2505",
+                "frequency": 562
+            },
+            "2506": {
+                "name": "Metals and Alloys",
+                "groupName": "MATE",
+                "code": "2506",
+                "frequency": 154
+            },
+            "2507": {
+                "name": "Polymers and Plastics",
+                "groupName": "MATE",
+                "code": "2507",
+                "frequency": 447
+            },
+            "2508": {
+                "name": "Surfaces, Coatings and Films",
+                "groupName": "MATE",
+                "code": "2508",
+                "frequency": 226
+            }
+        },
+        "frequency": 2952,
+        "overlapFrequency": 1988
+    },
+    "CHEM": {
+        "groupName": "CHEM",
+        "subjectAreas": {
+            "1600": {
+                "name": "Chemistry (all)",
+                "groupName": "CHEM",
+                "code": "1600",
+                "frequency": 905
+            },
+            "1601": {
+                "name": "Chemistry (miscellaneous)",
+                "groupName": "CHEM",
+                "code": "1601",
+                "frequency": 141
+            },
+            "1602": {
+                "name": "Analytical Chemistry",
+                "groupName": "CHEM",
+                "code": "1602",
+                "frequency": 481
+            },
+            "1603": {
+                "name": "Electrochemistry",
+                "groupName": "CHEM",
+                "code": "1603",
+                "frequency": 94
+            },
+            "1604": {
+                "name": "Inorganic Chemistry",
+                "groupName": "CHEM",
+                "code": "1604",
+                "frequency": 180
+            },
+            "1605": {
+                "name": "Organic Chemistry",
+                "groupName": "CHEM",
+                "code": "1605",
+                "frequency": 599
+            },
+            "1606": {
+                "name": "Physical and Theoretical Chemistry",
+                "groupName": "CHEM",
+                "code": "1606",
+                "frequency": 483
+            },
+            "1607": {
+                "name": "Spectroscopy",
+                "groupName": "CHEM",
+                "code": "1607",
+                "frequency": 239
+            }
+        },
+        "frequency": 3122,
+        "overlapFrequency": 2161
+    },
+    "CENG": {
+        "groupName": "CENG",
+        "subjectAreas": {
+            "1500": {
+                "name": "Chemical Engineering (all)",
+                "groupName": "CENG",
+                "code": "1500",
+                "frequency": 755
+            },
+            "1501": {
+                "name": "Chemical Engineering (miscellaneous)",
+                "groupName": "CENG",
+                "code": "1501",
+                "frequency": 129
+            },
+            "1502": {
+                "name": "Bioengineering",
+                "groupName": "CENG",
+                "code": "1502",
+                "frequency": 218
+            },
+            "1503": {
+                "name": "Catalysis",
+                "groupName": "CENG",
+                "code": "1503",
+                "frequency": 321
+            },
+            "1504": {
+                "name": "Chemical Health and Safety",
+                "groupName": "CENG",
+                "code": "1504",
+                "frequency": 8
+            },
+            "1505": {
+                "name": "Colloid and Surface Chemistry",
+                "groupName": "CENG",
+                "code": "1505",
+                "frequency": 61
+            },
+            "1506": {
+                "name": "Filtration and Separation",
+                "groupName": "CENG",
+                "code": "1506",
+                "frequency": 41
+            },
+            "1507": {
+                "name": "Fluid Flow and Transfer Processes",
+                "groupName": "CENG",
+                "code": "1507",
+                "frequency": 67
+            },
+            "1508": {
+                "name": "Process Chemistry and Technology",
+                "groupName": "CENG",
+                "code": "1508",
+                "frequency": 242
+            }
+        },
+        "frequency": 1842,
+        "overlapFrequency": 1555
+    },
+    "PHYS": {
+        "groupName": "PHYS",
+        "subjectAreas": {
+            "3100": {
+                "name": "Physics and Astronomy (all)",
+                "groupName": "PHYS",
+                "code": "3100",
+                "frequency": 405
+            },
+            "3101": {
+                "name": "Physics and Astronomy (miscellaneous)",
+                "groupName": "PHYS",
+                "code": "3101",
+                "frequency": 182
+            },
+            "3102": {
+                "name": "Acoustics and Ultrasonics",
+                "groupName": "PHYS",
+                "code": "3102",
+                "frequency": 12
+            },
+            "3103": {
+                "name": "Astronomy and Astrophysics",
+                "groupName": "PHYS",
+                "code": "3103",
+                "frequency": 81
+            },
+            "3104": {
+                "name": "Condensed Matter Physics",
+                "groupName": "PHYS",
+                "code": "3104",
+                "frequency": 549
+            },
+            "3105": {
+                "name": "Instrumentation",
+                "groupName": "PHYS",
+                "code": "3105",
+                "frequency": 350
+            },
+            "3106": {
+                "name": "Nuclear and High Energy Physics",
+                "groupName": "PHYS",
+                "code": "3106",
+                "frequency": 425
+            },
+            "3107": {
+                "name": "Atomic and Molecular Physics, and Optics",
+                "groupName": "PHYS",
+                "code": "3107",
+                "frequency": 156
+            },
+            "3108": {
+                "name": "Radiation",
+                "groupName": "PHYS",
+                "code": "3108",
+                "frequency": 36
+            },
+            "3109": {
+                "name": "Statistical and Nonlinear Physics",
+                "groupName": "PHYS",
+                "code": "3109",
+                "frequency": 20
+            },
+            "3110": {
+                "name": "Surfaces and Interfaces",
+                "groupName": "PHYS",
+                "code": "3110",
+                "frequency": 97
+            }
+        },
+        "frequency": 2313,
+        "overlapFrequency": 2072
+    },
+    "BIOC": {
+        "groupName": "BIOC",
+        "subjectAreas": {
+            "1300": {
+                "name": "Biochemistry, Genetics and Molecular Biology (all)",
+                "groupName": "BIOC",
+                "code": "1300",
+                "frequency": 392
+            },
+            "1301": {
+                "name": "Biochemistry, Genetics and Molecular Biology (miscellaneous)",
+                "groupName": "BIOC",
+                "code": "1301",
+                "frequency": 27
+            },
+            "1302": {
+                "name": "Aging",
+                "groupName": "BIOC",
+                "code": "1302",
+                "frequency": 19
+            },
+            "1303": {
+                "name": "Biochemistry",
+                "groupName": "BIOC",
+                "code": "1303",
+                "frequency": 597
+            },
+            "1304": {
+                "name": "Biophysics",
+                "groupName": "BIOC",
+                "code": "1304",
+                "frequency": 110
+            },
+            "1305": {
+                "name": "Biotechnology",
+                "groupName": "BIOC",
+                "code": "1305",
+                "frequency": 335
+            },
+            "1306": {
+                "name": "Cancer Research",
+                "groupName": "BIOC",
+                "code": "1306",
+                "frequency": 208
+            },
+            "1307": {
+                "name": "Cell Biology",
+                "groupName": "BIOC",
+                "code": "1307",
+                "frequency": 172
+            },
+            "1308": {
+                "name": "Clinical Biochemistry",
+                "groupName": "BIOC",
+                "code": "1308",
+                "frequency": 113
+            },
+            "1309": {
+                "name": "Developmental Biology",
+                "groupName": "BIOC",
+                "code": "1309",
+                "frequency": 35
+            },
+            "1310": {
+                "name": "Endocrinology",
+                "groupName": "BIOC",
+                "code": "1310",
+                "frequency": 74
+            },
+            "1311": {
+                "name": "Genetics",
+                "groupName": "BIOC",
+                "code": "1311",
+                "frequency": 254
+            },
+            "1312": {
+                "name": "Molecular Biology",
+                "groupName": "BIOC",
+                "code": "1312",
+                "frequency": 504
+            },
+            "1313": {
+                "name": "Molecular Medicine",
+                "groupName": "BIOC",
+                "code": "1313",
+                "frequency": 348
+            },
+            "1314": {
+                "name": "Physiology",
+                "groupName": "BIOC",
+                "code": "1314",
+                "frequency": 127
+            },
+            "1315": {
+                "name": "Structural Biology",
+                "groupName": "BIOC",
+                "code": "1315",
+                "frequency": 83
+            }
+        },
+        "frequency": 3398,
+        "overlapFrequency": 2436
+    },
+    "ENVI": {
+        "groupName": "ENVI",
+        "subjectAreas": {
+            "2300": {
+                "name": "Environmental Science (all)",
+                "groupName": "ENVI",
+                "code": "2300",
+                "frequency": 375
+            },
+            "2301": {
+                "name": "Environmental Science (miscellaneous)",
+                "groupName": "ENVI",
+                "code": "2301",
+                "frequency": 151
+            },
+            "2302": {
+                "name": "Ecological Modeling",
+                "groupName": "ENVI",
+                "code": "2302",
+                "frequency": 38
+            },
+            "2303": {
+                "name": "Ecology",
+                "groupName": "ENVI",
+                "code": "2303",
+                "frequency": 168
+            },
+            "2304": {
+                "name": "Environmental Chemistry",
+                "groupName": "ENVI",
+                "code": "2304",
+                "frequency": 355
+            },
+            "2305": {
+                "name": "Environmental Engineering",
+                "groupName": "ENVI",
+                "code": "2305",
+                "frequency": 369
+            },
+            "2306": {
+                "name": "Global and Planetary Change",
+                "groupName": "ENVI",
+                "code": "2306",
+                "frequency": 50
+            },
+            "2307": {
+                "name": "Health, Toxicology and Mutagenesis",
+                "groupName": "ENVI",
+                "code": "2307",
+                "frequency": 212
+            },
+            "2308": {
+                "name": "Management, Monitoring, Policy and Law",
+                "groupName": "ENVI",
+                "code": "2308",
+                "frequency": 281
+            },
+            "2309": {
+                "name": "Nature and Landscape Conservation",
+                "groupName": "ENVI",
+                "code": "2309",
+                "frequency": 73
+            },
+            "2310": {
+                "name": "Pollution",
+                "groupName": "ENVI",
+                "code": "2310",
+                "frequency": 372
+            },
+            "2311": {
+                "name": "Waste Management and Disposal",
+                "groupName": "ENVI",
+                "code": "2311",
+                "frequency": 305
+            },
+            "2312": {
+                "name": "Water Science and Technology",
+                "groupName": "ENVI",
+                "code": "2312",
+                "frequency": 133
+            }
+        },
+        "frequency": 2882,
+        "overlapFrequency": 1712
+    },
+    "BUSI": {
+        "groupName": "BUSI",
+        "subjectAreas": {
+            "1400": {
+                "name": "Business, Management and Accounting (all)",
+                "groupName": "BUSI",
+                "code": "1400",
+                "frequency": 120
+            },
+            "1401": {
+                "name": "Business, Management and Accounting (miscellaneous)",
+                "groupName": "BUSI",
+                "code": "1401",
+                "frequency": 48
+            },
+            "1402": {
+                "name": "Accounting",
+                "groupName": "BUSI",
+                "code": "1402",
+                "frequency": 39
+            },
+            "1403": {
+                "name": "Business and International Management",
+                "groupName": "BUSI",
+                "code": "1403",
+                "frequency": 127
+            },
+            "1404": {
+                "name": "Management Information Systems",
+                "groupName": "BUSI",
+                "code": "1404",
+                "frequency": 82
+            },
+            "1405": {
+                "name": "Management of Technology and Innovation",
+                "groupName": "BUSI",
+                "code": "1405",
+                "frequency": 74
+            },
+            "1406": {
+                "name": "Marketing",
+                "groupName": "BUSI",
+                "code": "1406",
+                "frequency": 51
+            },
+            "1407": {
+                "name": "Organizational Behavior and Human Resource Management",
+                "groupName": "BUSI",
+                "code": "1407",
+                "frequency": 45
+            },
+            "1408": {
+                "name": "Strategy and Management",
+                "groupName": "BUSI",
+                "code": "1408",
+                "frequency": 211
+            },
+            "1409": {
+                "name": "Tourism, Leisure and Hospitality Management",
+                "groupName": "BUSI",
+                "code": "1409",
+                "frequency": 30
+            },
+            "1410": {
+                "name": "Industrial Relations",
+                "groupName": "BUSI",
+                "code": "1410",
+                "frequency": 4
+            }
+        },
+        "frequency": 831,
+        "overlapFrequency": 602
+    },
+    "DECI": {
+        "groupName": "DECI",
+        "subjectAreas": {
+            "1800": {
+                "name": "Decision Sciences (all)",
+                "groupName": "DECI",
+                "code": "1800",
+                "frequency": 4
+            },
+            "1801": {
+                "name": "Decision Sciences (miscellaneous)",
+                "groupName": "DECI",
+                "code": "1801",
+                "frequency": 36
+            },
+            "1802": {
+                "name": "Information Systems and Management",
+                "groupName": "DECI",
+                "code": "1802",
+                "frequency": 243
+            },
+            "1803": {
+                "name": "Management Science and Operations Research",
+                "groupName": "DECI",
+                "code": "1803",
+                "frequency": 76
+            },
+            "1804": {
+                "name": "Statistics, Probability and Uncertainty",
+                "groupName": "DECI",
+                "code": "1804",
+                "frequency": 41
+            }
+        },
+        "frequency": 400,
+        "overlapFrequency": 353
+    },
+    "COMP": {
+        "groupName": "COMP",
+        "subjectAreas": {
+            "1700": {
+                "name": "Computer Science (all)",
+                "groupName": "COMP",
+                "code": "1700",
+                "frequency": 229
+            },
+            "1701": {
+                "name": "Computer Science (miscellaneous)",
+                "groupName": "COMP",
+                "code": "1701",
+                "frequency": 141
+            },
+            "1702": {
+                "name": "Artificial Intelligence",
+                "groupName": "COMP",
+                "code": "1702",
+                "frequency": 475
+            },
+            "1703": {
+                "name": "Computational Theory and Mathematics",
+                "groupName": "COMP",
+                "code": "1703",
+                "frequency": 36
+            },
+            "1704": {
+                "name": "Computer Graphics and Computer-Aided Design",
+                "groupName": "COMP",
+                "code": "1704",
+                "frequency": 46
+            },
+            "1705": {
+                "name": "Computer Networks and Communications",
+                "groupName": "COMP",
+                "code": "1705",
+                "frequency": 699
+            },
+            "1706": {
+                "name": "Computer Science Applications",
+                "groupName": "COMP",
+                "code": "1706",
+                "frequency": 725
+            },
+            "1707": {
+                "name": "Computer Vision and Pattern Recognition",
+                "groupName": "COMP",
+                "code": "1707",
+                "frequency": 317
+            },
+            "1708": {
+                "name": "Hardware and Architecture",
+                "groupName": "COMP",
+                "code": "1708",
+                "frequency": 277
+            },
+            "1709": {
+                "name": "Human-Computer Interaction",
+                "groupName": "COMP",
+                "code": "1709",
+                "frequency": 212
+            },
+            "1710": {
+                "name": "Information Systems",
+                "groupName": "COMP",
+                "code": "1710",
+                "frequency": 322
+            },
+            "1711": {
+                "name": "Signal Processing",
+                "groupName": "COMP",
+                "code": "1711",
+                "frequency": 168
+            },
+            "1712": {
+                "name": "Software",
+                "groupName": "COMP",
+                "code": "1712",
+                "frequency": 338
+            }
+        },
+        "frequency": 3985,
+        "overlapFrequency": 1827
+    },
+    "EART": {
+        "groupName": "EART",
+        "subjectAreas": {
+            "1900": {
+                "name": "Earth and Planetary Sciences (all)",
+                "groupName": "EART",
+                "code": "1900",
+                "frequency": 146
+            },
+            "1901": {
+                "name": "Earth and Planetary Sciences (miscellaneous)",
+                "groupName": "EART",
+                "code": "1901",
+                "frequency": 50
+            },
+            "1902": {
+                "name": "Atmospheric Science",
+                "groupName": "EART",
+                "code": "1902",
+                "frequency": 33
+            },
+            "1903": {
+                "name": "Computers in Earth Sciences",
+                "groupName": "EART",
+                "code": "1903",
+                "frequency": 10
+            },
+            "1904": {
+                "name": "Earth-Surface Processes",
+                "groupName": "EART",
+                "code": "1904",
+                "frequency": 36
+            },
+            "1905": {
+                "name": "Economic Geology",
+                "groupName": "EART",
+                "code": "1905",
+                "frequency": 3
+            },
+            "1906": {
+                "name": "Geochemistry and Petrology",
+                "groupName": "EART",
+                "code": "1906",
+                "frequency": 51
+            },
+            "1907": {
+                "name": "Geology",
+                "groupName": "EART",
+                "code": "1907",
+                "frequency": 100
+            },
+            "1908": {
+                "name": "Geophysics",
+                "groupName": "EART",
+                "code": "1908",
+                "frequency": 28
+            },
+            "1909": {
+                "name": "Geotechnical Engineering and Engineering Geology",
+                "groupName": "EART",
+                "code": "1909",
+                "frequency": 186
+            },
+            "1910": {
+                "name": "Oceanography",
+                "groupName": "EART",
+                "code": "1910",
+                "frequency": 67
+            },
+            "1911": {
+                "name": "Paleontology",
+                "groupName": "EART",
+                "code": "1911",
+                "frequency": 72
+            },
+            "1912": {
+                "name": "Space and Planetary Science",
+                "groupName": "EART",
+                "code": "1912",
+                "frequency": 79
+            },
+            "1913": {
+                "name": "Stratigraphy",
+                "groupName": "EART",
+                "code": "1913",
+                "frequency": 11
+            }
+        },
+        "frequency": 872,
+        "overlapFrequency": 713
+    },
+    "AGRI": {
+        "groupName": "AGRI",
+        "subjectAreas": {
+            "1100": {
+                "name": "Agricultural and Biological Sciences (all)",
+                "groupName": "AGRI",
+                "code": "1100",
+                "frequency": 229
+            },
+            "1101": {
+                "name": "Agricultural and Biological Sciences (miscellaneous)",
+                "groupName": "AGRI",
+                "code": "1101",
+                "frequency": 123
+            },
+            "1102": {
+                "name": "Agronomy and Crop Science",
+                "groupName": "AGRI",
+                "code": "1102",
+                "frequency": 137
+            },
+            "1103": {
+                "name": "Animal Science and Zoology",
+                "groupName": "AGRI",
+                "code": "1103",
+                "frequency": 362
+            },
+            "1104": {
+                "name": "Aquatic Science",
+                "groupName": "AGRI",
+                "code": "1104",
+                "frequency": 255
+            },
+            "1105": {
+                "name": "Ecology, Evolution, Behavior and Systematics",
+                "groupName": "AGRI",
+                "code": "1105",
+                "frequency": 425
+            },
+            "1106": {
+                "name": "Food Science",
+                "groupName": "AGRI",
+                "code": "1106",
+                "frequency": 398
+            },
+            "1107": {
+                "name": "Forestry",
+                "groupName": "AGRI",
+                "code": "1107",
+                "frequency": 35
+            },
+            "1108": {
+                "name": "Horticulture",
+                "groupName": "AGRI",
+                "code": "1108",
+                "frequency": 51
+            },
+            "1109": {
+                "name": "Insect Science",
+                "groupName": "AGRI",
+                "code": "1109",
+                "frequency": 103
+            },
+            "1110": {
+                "name": "Plant Science",
+                "groupName": "AGRI",
+                "code": "1110",
+                "frequency": 317
+            },
+            "1111": {
+                "name": "Soil Science",
+                "groupName": "AGRI",
+                "code": "1111",
+                "frequency": 83
+            }
+        },
+        "frequency": 2518,
+        "overlapFrequency": 1901
+    },
+    "ENER": {
+        "groupName": "ENER",
+        "subjectAreas": {
+            "2100": {
+                "name": "Energy (all)",
+                "groupName": "ENER",
+                "code": "2100",
+                "frequency": 179
+            },
+            "2101": {
+                "name": "Energy (miscellaneous)",
+                "groupName": "ENER",
+                "code": "2101",
+                "frequency": 58
+            },
+            "2102": {
+                "name": "Energy Engineering and Power Technology",
+                "groupName": "ENER",
+                "code": "2102",
+                "frequency": 566
+            },
+            "2103": {
+                "name": "Fuel Technology",
+                "groupName": "ENER",
+                "code": "2103",
+                "frequency": 329
+            },
+            "2104": {
+                "name": "Nuclear Energy and Engineering",
+                "groupName": "ENER",
+                "code": "2104",
+                "frequency": 61
+            },
+            "2105": {
+                "name": "Renewable Energy, Sustainability and the Environment",
+                "groupName": "ENER",
+                "code": "2105",
+                "frequency": 652
+            }
+        },
+        "frequency": 1845,
+        "overlapFrequency": 1063
+    },
+    "ECON": {
+        "groupName": "ECON",
+        "subjectAreas": {
+            "2000": {
+                "name": "Economics, Econometrics and Finance (all)",
+                "groupName": "ECON",
+                "code": "2000",
+                "frequency": 144
+            },
+            "2001": {
+                "name": "Economics, Econometrics and Finance (miscellaneous)",
+                "groupName": "ECON",
+                "code": "2001",
+                "frequency": 40
+            },
+            "2002": {
+                "name": "Economics and Econometrics",
+                "groupName": "ECON",
+                "code": "2002",
+                "frequency": 201
+            },
+            "2003": {
+                "name": "Finance",
+                "groupName": "ECON",
+                "code": "2003",
+                "frequency": 103
+            }
+        },
+        "frequency": 488,
+        "overlapFrequency": 415
+    },
+    "PHAR": {
+        "groupName": "PHAR",
+        "subjectAreas": {
+            "3000": {
+                "name": "Pharmacology, Toxicology and Pharmaceutics (all)",
+                "groupName": "PHAR",
+                "code": "3000",
+                "frequency": 100
+            },
+            "3001": {
+                "name": "Pharmacology, Toxicology and Pharmaceutics (miscellaneous)",
+                "groupName": "PHAR",
+                "code": "3001",
+                "frequency": 33
+            },
+            "3002": {
+                "name": "Drug Discovery",
+                "groupName": "PHAR",
+                "code": "3002",
+                "frequency": 385
+            },
+            "3003": {
+                "name": "Pharmaceutical Science",
+                "groupName": "PHAR",
+                "code": "3003",
+                "frequency": 453
+            },
+            "3004": {
+                "name": "Pharmacology",
+                "groupName": "PHAR",
+                "code": "3004",
+                "frequency": 469
+            },
+            "3005": {
+                "name": "Toxicology",
+                "groupName": "PHAR",
+                "code": "3005",
+                "frequency": 105
+            }
+        },
+        "frequency": 1545,
+        "overlapFrequency": 1056
+    },
+    "NURS": {
+        "groupName": "NURS",
+        "subjectAreas": {
+            "2900": {
+                "name": "Nursing (all)",
+                "groupName": "NURS",
+                "code": "2900",
+                "frequency": 92
+            },
+            "2901": {
+                "name": "Nursing (miscellaneous)",
+                "groupName": "NURS",
+                "code": "2901",
+                "frequency": 9
+            },
+            "2902": {
+                "name": "Advanced and Specialized Nursing",
+                "groupName": "NURS",
+                "code": "2902",
+                "frequency": 16
+            },
+            "2903": {
+                "name": "Assessment and Diagnosis",
+                "groupName": "NURS",
+                "code": "2903",
+                "frequency": 3
+            },
+            "2904": {
+                "name": "Care Planning",
+                "groupName": "NURS",
+                "code": "2904",
+                "frequency": 2
+            },
+            "2905": {
+                "name": "Community and Home Care",
+                "groupName": "NURS",
+                "code": "2905",
+                "frequency": 14
+            },
+            "2906": {
+                "name": "Critical Care Nursing",
+                "groupName": "NURS",
+                "code": "2906",
+                "frequency": 2
+            },
+            "2907": {
+                "name": "Emergency Nursing",
+                "groupName": "NURS",
+                "code": "2907",
+                "frequency": 1
+            },
+            "2908": {
+                "name": "Fundamentals and Skills",
+                "groupName": "NURS",
+                "code": "2908",
+                "frequency": 5
+            },
+            "2909": {
+                "name": "Gerontology",
+                "groupName": "NURS",
+                "code": "2909",
+                "frequency": 15
+            },
+            "2910": {
+                "name": "Issues, Ethics and Legal Aspects",
+                "groupName": "NURS",
+                "code": "2910",
+                "frequency": 5
+            },
+            "2911": {
+                "name": "Leadership and Management",
+                "groupName": "NURS",
+                "code": "2911",
+                "frequency": 16
+            },
+            "2913": {
+                "name": "Maternity and Midwifery",
+                "groupName": "NURS",
+                "code": "2913",
+                "frequency": 12
+            },
+            "2914": {
+                "name": "Medical and Surgical Nursing",
+                "groupName": "NURS",
+                "code": "2914",
+                "frequency": 7
+            },
+            "2916": {
+                "name": "Nutrition and Dietetics",
+                "groupName": "NURS",
+                "code": "2916",
+                "frequency": 130
+            },
+            "2917": {
+                "name": "Oncology (nursing)",
+                "groupName": "NURS",
+                "code": "2917",
+                "frequency": 7
+            },
+            "2919": {
+                "name": "Pediatrics",
+                "groupName": "NURS",
+                "code": "2919",
+                "frequency": 14
+            },
+            "2921": {
+                "name": "Psychiatric Mental Health",
+                "groupName": "NURS",
+                "code": "2921",
+                "frequency": 6
+            },
+            "2922": {
+                "name": "Research and Theory",
+                "groupName": "NURS",
+                "code": "2922",
+                "frequency": 3
+            }
+        },
+        "frequency": 359,
+        "overlapFrequency": 321
+    },
+    "SOCI": {
+        "groupName": "SOCI",
+        "subjectAreas": {
+            "3300": {
+                "name": "Social Sciences (all)",
+                "groupName": "SOCI",
+                "code": "3300",
+                "frequency": 248
+            },
+            "3301": {
+                "name": "Social Sciences (miscellaneous)",
+                "groupName": "SOCI",
+                "code": "3301",
+                "frequency": 102
+            },
+            "3302": {
+                "name": "Archeology",
+                "groupName": "SOCI",
+                "code": "3302",
+                "frequency": 15
+            },
+            "3303": {
+                "name": "Development",
+                "groupName": "SOCI",
+                "code": "3303",
+                "frequency": 91
+            },
+            "3304": {
+                "name": "Education",
+                "groupName": "SOCI",
+                "code": "3304",
+                "frequency": 361
+            },
+            "3305": {
+                "name": "Geography, Planning and Development",
+                "groupName": "SOCI",
+                "code": "3305",
+                "frequency": 279
+            },
+            "3306": {
+                "name": "Health (social science)",
+                "groupName": "SOCI",
+                "code": "3306",
+                "frequency": 128
+            },
+            "3307": {
+                "name": "Human Factors and Ergonomics",
+                "groupName": "SOCI",
+                "code": "3307",
+                "frequency": 12
+            },
+            "3308": {
+                "name": "Law",
+                "groupName": "SOCI",
+                "code": "3308",
+                "frequency": 37
+            },
+            "3309": {
+                "name": "Library and Information Sciences",
+                "groupName": "SOCI",
+                "code": "3309",
+                "frequency": 35
+            },
+            "3310": {
+                "name": "Linguistics and Language",
+                "groupName": "SOCI",
+                "code": "3310",
+                "frequency": 134
+            },
+            "3311": {
+                "name": "Safety Research",
+                "groupName": "SOCI",
+                "code": "3311",
+                "frequency": 34
+            },
+            "3312": {
+                "name": "Sociology and Political Science",
+                "groupName": "SOCI",
+                "code": "3312",
+                "frequency": 126
+            },
+            "3313": {
+                "name": "Transportation",
+                "groupName": "SOCI",
+                "code": "3313",
+                "frequency": 66
+            },
+            "3314": {
+                "name": "Anthropology",
+                "groupName": "SOCI",
+                "code": "3314",
+                "frequency": 50
+            },
+            "3315": {
+                "name": "Communication",
+                "groupName": "SOCI",
+                "code": "3315",
+                "frequency": 44
+            },
+            "3316": {
+                "name": "Cultural Studies",
+                "groupName": "SOCI",
+                "code": "3316",
+                "frequency": 65
+            },
+            "3317": {
+                "name": "Demography",
+                "groupName": "SOCI",
+                "code": "3317",
+                "frequency": 19
+            },
+            "3318": {
+                "name": "Gender Studies",
+                "groupName": "SOCI",
+                "code": "3318",
+                "frequency": 4
+            },
+            "3319": {
+                "name": "Life-span and Life-course Studies",
+                "groupName": "SOCI",
+                "code": "3319",
+                "frequency": 9
+            },
+            "3320": {
+                "name": "Political Science and International Relations",
+                "groupName": "SOCI",
+                "code": "3320",
+                "frequency": 62
+            },
+            "3321": {
+                "name": "Public Administration",
+                "groupName": "SOCI",
+                "code": "3321",
+                "frequency": 21
+            },
+            "3322": {
+                "name": "Urban Studies",
+                "groupName": "SOCI",
+                "code": "3322",
+                "frequency": 105
+            }
+        },
+        "frequency": 2047,
+        "overlapFrequency": 1515
+    },
+    "IMMU": {
+        "groupName": "IMMU",
+        "subjectAreas": {
+            "2400": {
+                "name": "Immunology and Microbiology (all)",
+                "groupName": "IMMU",
+                "code": "2400",
+                "frequency": 186
+            },
+            "2401": {
+                "name": "Immunology and Microbiology (miscellaneous)",
+                "groupName": "IMMU",
+                "code": "2401",
+                "frequency": 49
+            },
+            "2402": {
+                "name": "Applied Microbiology and Biotechnology",
+                "groupName": "IMMU",
+                "code": "2402",
+                "frequency": 132
+            },
+            "2403": {
+                "name": "Immunology",
+                "groupName": "IMMU",
+                "code": "2403",
+                "frequency": 418
+            },
+            "2404": {
+                "name": "Microbiology",
+                "groupName": "IMMU",
+                "code": "2404",
+                "frequency": 314
+            },
+            "2405": {
+                "name": "Parasitology",
+                "groupName": "IMMU",
+                "code": "2405",
+                "frequency": 123
+            },
+            "2406": {
+                "name": "Virology",
+                "groupName": "IMMU",
+                "code": "2406",
+                "frequency": 147
+            }
+        },
+        "frequency": 1369,
+        "overlapFrequency": 1158
+    },
+    "VETE": {
+        "groupName": "VETE",
+        "subjectAreas": {
+            "3400": {
+                "name": "Veterinary (all)",
+                "groupName": "VETE",
+                "code": "3400",
+                "frequency": 507
+            },
+            "3401": {
+                "name": "Veterinary (miscellaneous)",
+                "groupName": "VETE",
+                "code": "3401",
+                "frequency": 33
+            },
+            "3402": {
+                "name": "Equine",
+                "groupName": "VETE",
+                "code": "3402",
+                "frequency": 24
+            },
+            "3403": {
+                "name": "Food Animals",
+                "groupName": "VETE",
+                "code": "3403",
+                "frequency": 47
+            },
+            "3404": {
+                "name": "Small Animals",
+                "groupName": "VETE",
+                "code": "3404",
+                "frequency": 28
+            }
+        },
+        "frequency": 639,
+        "overlapFrequency": 591
+    },
+    "NEUR": {
+        "groupName": "NEUR",
+        "subjectAreas": {
+            "2800": {
+                "name": "Neuroscience (all)",
+                "groupName": "NEUR",
+                "code": "2800",
+                "frequency": 132
+            },
+            "2801": {
+                "name": "Neuroscience (miscellaneous)",
+                "groupName": "NEUR",
+                "code": "2801",
+                "frequency": 6
+            },
+            "2802": {
+                "name": "Behavioral Neuroscience",
+                "groupName": "NEUR",
+                "code": "2802",
+                "frequency": 45
+            },
+            "2803": {
+                "name": "Biological Psychiatry",
+                "groupName": "NEUR",
+                "code": "2803",
+                "frequency": 59
+            },
+            "2804": {
+                "name": "Cellular and Molecular Neuroscience",
+                "groupName": "NEUR",
+                "code": "2804",
+                "frequency": 109
+            },
+            "2805": {
+                "name": "Cognitive Neuroscience",
+                "groupName": "NEUR",
+                "code": "2805",
+                "frequency": 36
+            },
+            "2806": {
+                "name": "Developmental Neuroscience",
+                "groupName": "NEUR",
+                "code": "2806",
+                "frequency": 10
+            },
+            "2807": {
+                "name": "Endocrine and Autonomic Systems",
+                "groupName": "NEUR",
+                "code": "2807",
+                "frequency": 12
+            },
+            "2808": {
+                "name": "Neurology",
+                "groupName": "NEUR",
+                "code": "2808",
+                "frequency": 197
+            },
+            "2809": {
+                "name": "Sensory Systems",
+                "groupName": "NEUR",
+                "code": "2809",
+                "frequency": 21
+            }
+        },
+        "frequency": 627,
+        "overlapFrequency": 505
+    },
+    "MATH": {
+        "groupName": "MATH",
+        "subjectAreas": {
+            "2600": {
+                "name": "Mathematics (all)",
+                "groupName": "MATH",
+                "code": "2600",
+                "frequency": 147
+            },
+            "2601": {
+                "name": "Mathematics (miscellaneous)",
+                "groupName": "MATH",
+                "code": "2601",
+                "frequency": 8
+            },
+            "2602": {
+                "name": "Algebra and Number Theory",
+                "groupName": "MATH",
+                "code": "2602",
+                "frequency": 33
+            },
+            "2603": {
+                "name": "Analysis",
+                "groupName": "MATH",
+                "code": "2603",
+                "frequency": 26
+            },
+            "2604": {
+                "name": "Applied Mathematics",
+                "groupName": "MATH",
+                "code": "2604",
+                "frequency": 117
+            },
+            "2605": {
+                "name": "Computational Mathematics",
+                "groupName": "MATH",
+                "code": "2605",
+                "frequency": 52
+            },
+            "2606": {
+                "name": "Control and Optimization",
+                "groupName": "MATH",
+                "code": "2606",
+                "frequency": 221
+            },
+            "2607": {
+                "name": "Discrete Mathematics and Combinatorics",
+                "groupName": "MATH",
+                "code": "2607",
+                "frequency": 22
+            },
+            "2608": {
+                "name": "Geometry and Topology",
+                "groupName": "MATH",
+                "code": "2608",
+                "frequency": 11
+            },
+            "2609": {
+                "name": "Logic",
+                "groupName": "MATH",
+                "code": "2609",
+                "frequency": 16
+            },
+            "2610": {
+                "name": "Mathematical Physics",
+                "groupName": "MATH",
+                "code": "2610",
+                "frequency": 41
+            },
+            "2611": {
+                "name": "Modeling and Simulation",
+                "groupName": "MATH",
+                "code": "2611",
+                "frequency": 112
+            },
+            "2612": {
+                "name": "Numerical Analysis",
+                "groupName": "MATH",
+                "code": "2612",
+                "frequency": 17
+            },
+            "2613": {
+                "name": "Statistics and Probability",
+                "groupName": "MATH",
+                "code": "2613",
+                "frequency": 71
+            },
+            "2614": {
+                "name": "Theoretical Computer Science",
+                "groupName": "MATH",
+                "code": "2614",
+                "frequency": 56
+            }
+        },
+        "frequency": 950,
+        "overlapFrequency": 741
+    },
+    "MULT": {
+        "groupName": "MULT",
+        "subjectAreas": {
+            "1000": {
+                "name": "Multidisciplinary",
+                "groupName": "MULT",
+                "code": "1000",
+                "frequency": 1088
+            }
+        },
+        "frequency": 1088,
+        "overlapFrequency": 1088
+    },
+    "DENT": {
+        "groupName": "DENT",
+        "subjectAreas": {
+            "3500": {
+                "name": "Dentistry (all)",
+                "groupName": "DENT",
+                "code": "3500",
+                "frequency": 296
+            },
+            "3501": {
+                "name": "Dentistry (miscellaneous)",
+                "groupName": "DENT",
+                "code": "3501",
+                "frequency": 31
+            },
+            "3502": {
+                "name": "Dental Assisting",
+                "groupName": "DENT",
+                "code": "3502",
+                "frequency": 3
+            },
+            "3503": {
+                "name": "Dental Hygiene",
+                "groupName": "DENT",
+                "code": "3503",
+                "frequency": 5
+            },
+            "3504": {
+                "name": "Oral Surgery",
+                "groupName": "DENT",
+                "code": "3504",
+                "frequency": 102
+            },
+            "3505": {
+                "name": "Orthodontics",
+                "groupName": "DENT",
+                "code": "3505",
+                "frequency": 30
+            },
+            "3506": {
+                "name": "Periodontics",
+                "groupName": "DENT",
+                "code": "3506",
+                "frequency": 33
+            }
+        },
+        "frequency": 500,
+        "overlapFrequency": 447
+    },
+    "HEAL": {
+        "groupName": "HEAL",
+        "subjectAreas": {
+            "3600": {
+                "name": "Health Professions (all)",
+                "groupName": "HEAL",
+                "code": "3600",
+                "frequency": 9
+            },
+            "3601": {
+                "name": "Health Professions (miscellaneous)",
+                "groupName": "HEAL",
+                "code": "3601",
+                "frequency": 48
+            },
+            "3602": {
+                "name": "Chiropractics",
+                "groupName": "HEAL",
+                "code": "3602",
+                "frequency": 1
+            },
+            "3603": {
+                "name": "Complementary and Manual Therapy",
+                "groupName": "HEAL",
+                "code": "3603",
+                "frequency": 11
+            },
+            "3605": {
+                "name": "Health Information Management",
+                "groupName": "HEAL",
+                "code": "3605",
+                "frequency": 23
+            },
+            "3607": {
+                "name": "Medical Laboratory Technology",
+                "groupName": "HEAL",
+                "code": "3607",
+                "frequency": 24
+            },
+            "3609": {
+                "name": "Occupational Therapy",
+                "groupName": "HEAL",
+                "code": "3609",
+                "frequency": 11
+            },
+            "3610": {
+                "name": "Optometry",
+                "groupName": "HEAL",
+                "code": "3610",
+                "frequency": 1
+            },
+            "3611": {
+                "name": "Pharmacy",
+                "groupName": "HEAL",
+                "code": "3611",
+                "frequency": 35
+            },
+            "3612": {
+                "name": "Physical Therapy, Sports Therapy and Rehabilitation",
+                "groupName": "HEAL",
+                "code": "3612",
+                "frequency": 97
+            },
+            "3613": {
+                "name": "Podiatry",
+                "groupName": "HEAL",
+                "code": "3613",
+                "frequency": 2
+            },
+            "3614": {
+                "name": "Radiological and Ultrasound Technology",
+                "groupName": "HEAL",
+                "code": "3614",
+                "frequency": 46
+            },
+            "3616": {
+                "name": "Speech and Hearing",
+                "groupName": "HEAL",
+                "code": "3616",
+                "frequency": 4
+            }
+        },
+        "frequency": 312,
+        "overlapFrequency": 276
+    },
+    "ARTS": {
+        "groupName": "ARTS",
+        "subjectAreas": {
+            "1200": {
+                "name": "Arts and Humanities (all)",
+                "groupName": "ARTS",
+                "code": "1200",
+                "frequency": 94
+            },
+            "1201": {
+                "name": "Arts and Humanities (miscellaneous)",
+                "groupName": "ARTS",
+                "code": "1201",
+                "frequency": 74
+            },
+            "1202": {
+                "name": "History",
+                "groupName": "ARTS",
+                "code": "1202",
+                "frequency": 74
+            },
+            "1203": {
+                "name": "Language and Linguistics",
+                "groupName": "ARTS",
+                "code": "1203",
+                "frequency": 132
+            },
+            "1204": {
+                "name": "Archeology (arts and humanities)",
+                "groupName": "ARTS",
+                "code": "1204",
+                "frequency": 15
+            },
+            "1206": {
+                "name": "Conservation",
+                "groupName": "ARTS",
+                "code": "1206",
+                "frequency": 34
+            },
+            "1207": {
+                "name": "History and Philosophy of Science",
+                "groupName": "ARTS",
+                "code": "1207",
+                "frequency": 23
+            },
+            "1208": {
+                "name": "Literature and Literary Theory",
+                "groupName": "ARTS",
+                "code": "1208",
+                "frequency": 58
+            },
+            "1209": {
+                "name": "Museology",
+                "groupName": "ARTS",
+                "code": "1209",
+                "frequency": 1
+            },
+            "1210": {
+                "name": "Music",
+                "groupName": "ARTS",
+                "code": "1210",
+                "frequency": 32
+            },
+            "1211": {
+                "name": "Philosophy",
+                "groupName": "ARTS",
+                "code": "1211",
+                "frequency": 15
+            },
+            "1212": {
+                "name": "Religious Studies",
+                "groupName": "ARTS",
+                "code": "1212",
+                "frequency": 26
+            },
+            "1213": {
+                "name": "Visual Arts and Performing Arts",
+                "groupName": "ARTS",
+                "code": "1213",
+                "frequency": 50
+            }
+        },
+        "frequency": 628,
+        "overlapFrequency": 502
+    },
+    "PSYC": {
+        "groupName": "PSYC",
+        "subjectAreas": {
+            "3200": {
+                "name": "Psychology (all)",
+                "groupName": "PSYC",
+                "code": "3200",
+                "frequency": 66
+            },
+            "3201": {
+                "name": "Psychology (miscellaneous)",
+                "groupName": "PSYC",
+                "code": "3201",
+                "frequency": 5
+            },
+            "3202": {
+                "name": "Applied Psychology",
+                "groupName": "PSYC",
+                "code": "3202",
+                "frequency": 33
+            },
+            "3203": {
+                "name": "Clinical Psychology",
+                "groupName": "PSYC",
+                "code": "3203",
+                "frequency": 44
+            },
+            "3204": {
+                "name": "Developmental and Educational Psychology",
+                "groupName": "PSYC",
+                "code": "3204",
+                "frequency": 17
+            },
+            "3205": {
+                "name": "Experimental and Cognitive Psychology",
+                "groupName": "PSYC",
+                "code": "3205",
+                "frequency": 26
+            },
+            "3206": {
+                "name": "Neuropsychology and Physiological Psychology",
+                "groupName": "PSYC",
+                "code": "3206",
+                "frequency": 16
+            },
+            "3207": {
+                "name": "Social Psychology",
+                "groupName": "PSYC",
+                "code": "3207",
+                "frequency": 64
+            }
+        },
+        "frequency": 271,
+        "overlapFrequency": 226
+    }
+}
