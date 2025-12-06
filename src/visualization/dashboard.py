@@ -100,7 +100,7 @@ def close_button_on_click():
 
 
 st.sidebar.button("Click Here", on_click=click_here_button_on_click)
-if st.session_state.slice_selection is not None:
+if st.session_state.slice_selection is not None and st.session_state.slice_selection["x"] == x and st.session_state.slice_selection["y"] == y:
     st.header("Clustering Results")
     response_slice = st.session_state.slice_selection["slice"]
 
@@ -118,7 +118,7 @@ if st.session_state.slice_selection is not None:
         x=aggregated_data.x,
         y=aggregated_data.y,
         color=aggregated_data.cluster.map(cluster_labels),
-        labels={"x": x, "y": y, "color": "cluster"},
+        labels={"x": st.session_state.slice_selection["x"], "y": st.session_state.slice_selection["y"], "color": "cluster"},
         color_discrete_map=cluster_colors,
         size=aggregated_data.plot_size,
         size_max=40,
