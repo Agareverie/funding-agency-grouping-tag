@@ -1,0 +1,1864 @@
+grant_name,AGRI,ARTS,BIOC,CENG,CHEM,COMP,DENT,EART,ENER,ENGI,ENVI,IMMU,MATE,MATH,MEDI,MULT,NEUR,NURS,PHAR,PHYS,PSYC,SOCI,VETE,cluster
+Ministry of Higher Education,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+National Science and Technology Development Agency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,1
+National Science Foundation,16,1,15,4,10,5,0,5,0,2,6,6,6,10,3,2,4,0,2,23,5,7,0,-1
+National Institutes of Health,7,0,62,6,15,3,2,0,0,5,1,44,4,2,140,7,21,0,12,23,3,0,2,18
+U.S. Department of Defense,0,0,0,0,0,1,0,0,0,2,0,6,1,1,9,0,2,0,1,0,0,0,0,-1
+Office of Naval Research,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+David and Lucile Packard Foundation,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,7
+Foundation for the National Institutes of Health,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Howard Hughes Medical Institute,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Smithsonian Institution,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,-1
+U.S. Department of Energy,0,0,1,2,3,5,0,3,1,0,4,0,2,0,0,0,0,0,0,43,0,0,0,-1
+U.S. Department of Health and Human Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+National Hemophilia Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+National Institute of Mental Health,0,0,2,0,0,0,0,0,0,0,0,7,0,0,31,1,7,0,1,0,0,3,1,-1
+National Institute on Drug Abuse,0,0,2,0,0,0,0,0,0,0,0,5,0,0,20,0,0,0,1,0,0,0,0,-1
+National Institute on Alcohol Abuse and Alcoholism,0,0,2,0,0,0,0,0,0,0,0,4,0,0,7,0,0,0,0,0,0,0,0,3
+U.S. Food and Drug Administration,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,3
+American Diabetes Association,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+American Association for Cancer Research,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Abbott Fund,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+American Cancer Society,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,-1
+National Institute on Aging,0,0,8,0,1,0,0,0,0,0,0,0,0,0,8,0,1,0,0,0,0,0,0,5
+"National Heart, Lung, and Blood Institute",0,0,7,0,0,0,0,0,0,0,0,5,0,0,11,0,0,0,2,0,0,1,1,-1
+National Human Genome Research Institute,0,0,2,0,0,0,0,0,0,0,0,1,0,0,3,1,0,0,0,0,0,0,0,-1
+NIH Office of the Director,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,-1
+National Eye Institute,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,5,0,0,0,0,0,0,5
+National Cancer Institute,0,0,8,1,0,0,0,0,0,2,0,6,1,0,35,0,0,0,1,2,0,0,0,-1
+National Institute of Nursing Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,7
+National Institute of General Medical Sciences,0,0,8,1,4,0,0,0,0,1,0,5,0,0,4,3,1,0,0,1,0,0,1,-1
+National Institute of Allergy and Infectious Diseases,2,0,12,1,4,1,0,0,0,0,0,23,0,0,57,1,0,0,5,0,1,0,0,-1
+Fogarty International Center,0,0,2,0,0,0,0,0,0,0,0,5,0,0,9,0,1,0,0,0,0,0,1,-1
+National Institute of Diabetes and Digestive and Kidney Diseases,0,0,4,0,0,0,0,0,0,0,0,4,0,0,20,2,1,0,0,0,0,0,0,-1
+National Institute of Neurological Disorders and Stroke,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,3,0,1,0,0,0,0,5
+National Institute of Environmental Health Sciences,1,0,4,0,0,1,0,0,0,1,0,0,0,0,5,3,3,0,0,0,0,0,0,-1
+National Institute of Arthritis and Musculoskeletal and Skin Diseases,1,0,3,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2
+National Institute of Biomedical Imaging and Bioengineering,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,2,0,0,0,-1
+National Institute of Child Health and Human Development,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,2,0,0,0,0,0,0,5
+National Institute of Dental and Craniofacial Research,0,0,10,0,0,0,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,-1
+Directorate for Biological Sciences,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Division of Social and Economic Sciences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1
+"Directorate for Social, Behavioral and Economic Sciences",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Congressionally Directed Medical Research Programs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Center for Information Technology,0,0,4,0,0,0,1,0,0,0,0,3,0,0,5,0,0,0,1,0,0,0,0,-1
+National Center for Research Resources,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Health Resources and Services Administration,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+National Aeronautics and Space Administration,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,0,4,0,0,0,4
+Office of Behavioral and Social Sciences Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,7
+Office of Research on Women's Health,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,15
+Agency for Healthcare Research and Quality,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+Army Research Office,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Defense Advanced Research Projects Agency,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,19
+U.S. Department of Agriculture,2,0,2,0,3,0,0,0,2,0,3,6,0,0,5,0,0,0,1,0,0,2,0,-1
+United States Agency for International Development,2,0,5,0,0,0,0,0,0,0,4,4,0,0,17,1,0,0,0,0,0,1,1,-1
+U.S. Geological Survey,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,0,7
+U.S. Department of Veterans Affairs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,1,0,0,0,0,2
+Defense Threat Reduction Agency,0,0,3,0,0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,-1
+Doris Duke Charitable Foundation,0,0,3,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,-1
+Michael J. Fox Foundation for Parkinson's Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,5
+Bill and Melinda Gates Foundation,0,0,6,0,0,0,0,0,0,0,0,7,0,0,10,1,0,1,0,0,0,0,2,-1
+International AIDS Vaccine Initiative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Mayo Clinic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Andrew W. Mellon Foundation,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Brain and Behavior Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,0,1,0,0,0,0,5
+Alfred P. Sloan Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,6
+Simons Foundation,0,0,0,0,0,5,0,0,0,1,0,0,0,9,0,0,0,0,0,0,0,0,0,19
+James S. McDonnell Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+John Templeton Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Welch Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,6
+Gordon and Betty Moore Foundation,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,1,0,14
+Alzheimer's Association,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7
+Arthritis National Research Foundation,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+American Heart Association,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Boehringer Ingelheim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,1,0,0,0,0,0,10
+Breast Cancer Research Foundation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Patrick and Catherine Weldon Donaghue Medical Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Camille and Henry Dreyfus Foundation,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"amfAR, The Foundation for AIDS Research",0,0,0,0,0,0,0,0,0,0,0,2,0,0,24,0,0,0,0,0,1,1,0,-1
+Hispanics in Philanthropy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,6
+Kavli Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,6
+Lupus Research Institute,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Marathon,0,0,0,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Jeffrey Modell Foundation,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Abbott Laboratories,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,3
+Social Science Research Council,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,7
+V Foundation for Cancer Research,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Wisconsin Alumni Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,4
+Amazon Conservation Association,0,0,0,0,0,3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+China Medical Board,0,0,1,0,0,0,0,0,3,2,0,0,0,0,1,0,0,1,1,1,0,1,0,-1
+"Conservation, Food and Health Foundation",0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,3
+Dystonia Medical Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,5
+Gateway for Cancer Research,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Be The Match Foundation,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+National Gallery of Art,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Pharmaceutical Research and Manufacturers of America Foundation,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,2,0,0,0,-1
+Research to Prevent Blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,2,0,0,0,0,0,0,5
+Cooley's Anemia Foundation,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Fanconi Anemia Research Fund,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Heart Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+Johnson Foundation,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Ford Motor Company,0,0,0,0,0,0,0,0,1,1,0,0,3,0,0,0,0,0,0,0,0,0,0,-1
+Amgen,0,0,2,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,2
+General Motors Corporation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,10
+Bristol-Myers Squibb,0,0,1,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,2
+United Technologies,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Vera Bradley Foundation for Breast Cancer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+CURE Childhood Cancer Association,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Entomological Foundation,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Foundation for Clinical Research in Inflammatory Bowel Disease,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Knowledge Foundation,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+National Sleep Foundation,0,0,1,1,0,0,0,2,0,1,0,1,2,0,1,12,0,0,0,1,0,0,0,-1
+Orangutan Conservancy,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+PADI Foundation,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Pilot International Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,4
+Travis Roy Foundation,2,0,0,1,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,-1
+Utah Humanities Council,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Wilson Foundation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+Hermansky-Pudlak Syndrome Network,0,0,0,0,0,8,0,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,19
+Human Growth Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,6
+Henry M. Jackson Foundation,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,2,0,1,0,0,0,0,-1
+Maryland Ornithological Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,6
+Multiple Sclerosis Center of Atlanta,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Spine Education and Research Institute,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,2,0,0,0,0,-1
+Eli Lilly and Company,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,0,0,0,1,0,0,1
+International Business Machines Corporation,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Pfizer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,17,0,1,0,0,1,0,0,0,5
+Philips,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+AstraZeneca,0,0,3,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,2
+Bayer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,2
+Genentech,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2
+Genzyme,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+GlaxoSmithKline,0,0,2,0,0,0,0,0,0,0,0,1,0,0,10,0,1,0,0,0,0,0,1,-1
+Johnson and Johnson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+La Jolla Pharmaceutical Company,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Merck,0,0,1,0,0,0,0,0,0,0,0,1,0,0,17,0,0,0,2,1,0,0,0,-1
+Novartis,0,0,4,0,0,0,0,0,0,0,0,0,0,0,16,0,4,0,0,0,0,0,0,5
+Roche,0,0,2,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,2
+Sanofi,0,0,3,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,1,0,0,0,0,-1
+Dow Chemical Company,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+Wyeth,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+3M,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+BASF,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9
+Procter and Gamble,1,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,-1
+Chevron,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Colgate-Palmolive Company,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9
+Medtronic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,5
+European Molecular Biology Organization,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Heart and Stroke Foundation of Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+International Foundation for Science,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Global Fund to Fight AIDS, Tuberculosis and Malaria",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+World Bank Group,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,7
+World Health Organization,0,0,2,0,0,0,0,2,0,0,6,2,0,0,18,0,0,0,0,0,0,1,1,-1
+Asian Development Bank,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,7
+Center for Global Partnership,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+OPEC Fund for International Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+Wellcome,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,1,1,0,0,0,0,0,0,-1
+Western Digital,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Baxter International,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,0,0,0,0,0,10
+Hitachi America,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,16
+Northwest Airlines,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,-1
+Parametric Technology Corporation,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Amway Corporation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+California Breast Cancer Research Program,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+California Department of Fish and Game,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Department of Water Resources,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Department of Public Utility Control,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,19
+Empire State Development Corporation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+Pennsylvania Department of Environmental Protection,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Texas Animal Health Commission,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Department of Natural Resources,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Minnesota Department of Human Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Discovery Communications,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Ecolab,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9
+Alexander von Humboldt-Stiftung,1,1,1,0,0,0,0,2,0,0,2,0,0,4,1,1,0,0,0,35,0,2,0,-1
+Janssen Research and Development,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Centers for Medicare and Medicaid Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"United Nations Educational, Scientific and Cultural Organization",0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+American Center for Mongolian Studies,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+American Institute for Maghrib Studies,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+National Institute of Justice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Brigham and Women's Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Boston College,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Academy of Natural Sciences of Drexel University,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Yale University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+"American Society of Composers, Authors and Publishers",0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+American Surgical Association Foundation,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1
+American-Italian Cancer Foundation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Association for Research in Vision and Ophthalmology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Center for Scientific Review,0,0,2,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,-1
+Chinese American Librarians Association,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+"California Sea Grant, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Asia-Pacific Network for Global Change Research,1,0,0,0,0,0,0,4,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Center for Africana Studies, Johns Hopkins University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"Center for AIDS Prevention Studies, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Center for Comparative Immigration Studies, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Gilead Sciences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,1,0,0,0,0,2
+"Center for Law, Society, and Culture, Indiana University Bloomington",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Center for Theoretical Biological Physics, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+University of California,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,0,0,0,-1
+"Center for Tobacco Control Research and Education, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Coastal Fund, University of California, Santa Barbara",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Biogen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Beth Israel Deaconess Medical Center,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Health Research,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,15
+Thrasher Research Fund,0,0,3,0,0,0,0,0,0,0,0,3,0,0,6,0,0,0,0,0,0,0,3,-1
+Council of Independent Colleges,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,9
+"Department of Black Studies, University of California, Santa Barbara",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Graduate School, University of Texas, Austin",5,0,0,1,1,7,0,0,1,5,2,0,0,1,2,2,0,2,2,0,0,0,1,-1
+Endocrine Society,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Office of Experimental Program to Stimulate Competitive Research,0,0,1,1,0,0,0,0,0,1,3,0,2,0,0,0,0,0,0,0,0,0,0,-1
+Virginia Space Grant Consortium,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,-1
+"Texas Sea Grant, Texas A and M University",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14
+Eye Bank Association of America,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Facebook,0,1,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,-1
+National Institute of Food and Agriculture,4,0,3,0,0,0,0,0,0,0,0,8,0,0,6,0,0,0,1,0,0,1,0,-1
+Carnegie Institution of Washington,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Hemostasis and Thrombosis Research Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"Institute of American Cultures, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Institute on Global Conflict and Cooperation, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+International Association for Dental Research,0,0,1,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,-1
+ASCRS Research Foundation,1,0,0,0,0,0,0,0,0,0,1,3,0,0,2,0,0,0,0,0,0,0,0,-1
+"Kavli Institute for Theoretical Physics, University of California, Santa Barbara",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Leakey Foundation,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Leukemia Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Western Integrated Pest Management Center, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+University of Southern California,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+Tree Research and Education Endowment Fund,0,0,0,3,0,3,0,0,0,0,0,0,0,1,1,2,0,0,3,0,0,0,0,-1
+Office of AIDS Research,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,-1
+Patient-Centered Outcomes Research Institute,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+National Center for Advancing Translational Sciences,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,2,0,0,0,0,1,0,-1
+Office of Science,0,0,1,2,1,0,0,0,0,1,4,0,4,0,0,0,0,0,0,0,0,0,0,-1
+Office of Environmental Management,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Office of Nuclear Energy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+Biomass Program,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Office of Defense Nuclear Security,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Research and Development,0,0,0,3,3,0,0,0,0,1,0,0,6,0,0,0,0,0,0,0,0,0,0,9
+Biological and Environmental Research,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,-1
+High Energy Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,4
+Lawrence Livermore National Laboratory,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+Oak Ridge National Laboratory,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Fermilab,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Lawrence Berkeley National Laboratory,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+California Department of Fish and Wildlife,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,6
+Teva Pharmaceutical Industries,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+"Center for International Business Education and Research, University of Illinois at Urbana-Champaign",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Biogen Idec,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+American Psychological Association,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"University of California, Santa Cruz",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+National Geographic Society,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Purdue University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+AIDS Clinical Trials Group,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Alexion Pharmaceuticals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Ariad Pharmaceuticals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Bureau for Economic Growth, Education, and Environment, United States Agency for International Development",1,0,1,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,1,0,-1
+"California Center for Population Research, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Center for Selective C-H Functionalization, National Science Foundation",0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,2,0,0,0,0,0,0,0,-1
+Celgene,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2
+"Center for Agroecology & Sustainable Food Systems, University of California, Santa Cruz",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Center for Emerging Infectious Diseases, University of Iowa",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,13
+"Center for Hierarchical Manufacturing, National Science Foundation",0,0,0,0,0,0,0,0,0,0,0,2,0,4,2,2,0,0,0,0,0,0,0,-1
+"Center for Virus Research, University of California, Irvine",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Columbia University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+AbbVie,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,0,0,0,5
+"Division of Agriculture and Natural Resources, University of California",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Carolina Center of Cancer Nanotechnology Excellence, University of North Carolina - Chapel Hill",0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16
+"Division of Intramural Research, National Institute of Allergy and Infectious Diseases",0,0,0,0,0,0,0,0,0,0,0,4,0,0,8,0,0,0,1,0,1,0,0,-1
+Edwards Lifesciences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+University of Southern Mississippi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Race and Difference Initiative, Emory University",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Vanderbilt University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+National Institute on Minority Health and Health Disparities,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Anxiety and Depression Association of America,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+FibroGen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+"Newton Public Schools, City of Newton",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+National Institute on Handicapped Research,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Oregon Health and Science University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"School of Social Sciences, University of California, Irvine",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Thomas Wilson Sanitarium For Children of Baltimore City,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Army Research Laboratory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+American Chemical Society Petroleum Research Fund,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9
+GE Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+University of North Carolina,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,-1
+Massachusetts Institute of Technology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+University of Pennsylvania,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+Ohio State University,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,-1
+University of Mississippi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Graduate Center,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1
+"Office of Extramural Research, National Institutes of Health",0,0,2,0,0,0,1,0,0,0,0,0,0,0,4,1,0,0,1,0,0,0,0,-1
+California Institute of Technology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Imedex,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Jackson State University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Laboratory Directed Research and Development,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,17,0,0,0,1,0,0,0,4
+Small Business Innovative Research and Small Business Technology Transfer,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,19
+F. Hoffmann-La Roche,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+University of Wisconsin-Madison,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Memorial Sloan-Kettering Cancer Center,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Nvidia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,6
+San Diego State University,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Sandler Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5
+"Henry Samueli School of Engineering and Applied Science, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Stanley Medical Research Institute,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,1,0,0,1
+University of Tulsa,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+University of Missouri,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+Commonwealth Neurotrauma Initiative Trust Fund,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Cincinnati Children's Hospital Medical Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Array BioPharma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Western Carolina University,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"University of California, Santa Barbara",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Natural Science Foundation of Shanghai,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+National Foundation for Science and Technology Development,6,0,0,0,1,0,0,5,0,2,7,0,3,0,0,0,0,0,0,0,0,0,0,-1
+Ministry of Science and Technology,0,0,6,2,3,2,0,1,1,6,9,0,6,0,2,0,1,0,1,23,0,0,0,-1
+Harvard University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Colorado State University,0,0,4,2,7,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+University of Minnesota,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Creighton University,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Office of Naval Research Global,0,0,0,0,5,0,0,0,0,2,0,0,10,0,0,0,0,0,0,9,0,0,0,0
+Cleveland Clinic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+University of Texas MD Anderson Cancer Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2
+"Division of Cancer Prevention, National Cancer Institute",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Massachusetts Eye and Ear,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Shire,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,10
+University of Arizona Cancer Center,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Takeda Science Foundation,0,0,6,1,4,1,0,0,0,0,0,2,0,0,2,0,1,0,2,0,0,0,0,-1
+Rufford Foundation,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Higher Education Research Promotion,4,0,2,1,5,0,1,0,3,2,0,1,1,0,0,1,0,1,2,2,0,0,0,-1
+Arizona State University,0,0,3,0,0,0,0,0,0,0,3,2,0,0,2,0,0,0,0,0,0,0,0,-1
+Bausch and Lomb,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+University of Colorado Boulder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Biomedical Laboratory Research and Development, VA Office of Research and Development",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+Biosense Webster,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Dairy Management,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Agro-Industry Research and Development Special Fund of China,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,4
+City University of Hong Kong,1,0,0,0,0,0,0,0,4,2,4,0,0,0,0,0,0,0,0,0,0,0,1,-1
+Belarusian Republican Foundation for Fundamental Research,0,0,0,2,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,9
+"Bourns College of Engineering, University of California, Riverside",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"University of California, Riverside",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Centre of Excellence for Environmental Decisions, Australian Research Council",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,1
+Stiftelsen för Miljöstrategisk Forskning,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,-1
+"Departamento Administrativo de Ciencia, Tecnología e Innovación",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,6
+École Normale Supérieure,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16
+German-Russian Interdisciplinary Science Center,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Lékařská Fakulta v Plzni, Univerzita Karlova",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Asahi Glass Foundation,10,0,21,2,6,5,1,0,7,4,2,7,14,1,5,4,21,0,6,5,0,3,0,-1
+King Chulalongkorn Memorial Hospital,3,0,8,1,0,4,0,0,0,2,0,16,2,0,57,3,3,1,14,1,0,0,3,-1
+University of Florida,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,4
+"University of California, Davis",4,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,-1
+Michigan State University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+Takeda Pharmaceuticals U.S.A.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,10
+Astrophysics Science Division,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+American Urogynecologic Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Massachusetts Lions Eye Research Fund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,5
+Engineering Laboratory,0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,19
+Danone Research Centre for Specialised Nutrition,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Danone,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,10
+Biocon,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+North-Eastern Hill University,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,-1
+Office of International Affairs,2,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14
+National Center for Child Health and Development,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+National Research Centre,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+Helsingin Yliopisto,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,12
+"Center for the Study of Women, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Institute for Fermentation, Osaka",0,0,5,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1
+University of Washington,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2
+Alcon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Allergan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0,0,0,5
+American Glaucoma Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,5
+Kansas Bioscience Authority,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,15
+Direktoratet for Utviklingssamarbeid,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14
+Respiratory Health Association,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+University of Kansas,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+School of Liberal Arts,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Johns Hopkins University,0,0,1,0,0,1,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,0,0,-1
+Centro de Investigação em Materiais Cerâmicos e Compósitos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+University of North Carolina at Chapel Hill,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+University of Arizona,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+College of Public Health,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9
+"University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,-1
+University of Texas Southwestern Medical Center,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Agricultural Research Service,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,9
+University of Pittsburgh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+University of Oklahoma,0,0,1,1,2,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,-1
+Bristol-Myers Squibb Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Diabetes Center, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Department of Medicine, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1
+University of Nebraska-Lincoln,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+College of Agricultural and Life Sciences,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Children's Specialists Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,6
+School of Medicine,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,-1
+Department of Surgery,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+Hitachi,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Health Systems Institute,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1
+Novartis Pharmaceuticals Corporation,0,0,2,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,-1
+"College of Medicine, University of Florida",0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+Science and Technology Directorate,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Pennsylvania State University,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,19
+CSL Behring,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Boehringer Ingelheim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Statens Naturvidenskabelige Forskningsrad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Takeda Pharmaceutical Company,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"Ministère de l'Éducation, du Loisir et du Sport Québec",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Sundhed og Sygdom, Det Frie Forskningsråd",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Endocyte,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"School of Dentistry, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Department of Radiology and Biomedical Imaging, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Canadian Urological Association,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"University of California, Irvine",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Buckeye Career Center Foundation,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Boston Scientific Corporation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Open University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+University of Maryland,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+University of Illinois at Chicago,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,5
+"Dan L. Duncan Cancer Center, Baylor College of Medicine",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+University of Ottawa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Center for Duchenne Muscular Dystrophy, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Sumitomo Foundation,0,3,9,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,-1
+Rajiv Gandhi Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Faculty of Medicine, McGill University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Wilhelm Sander-Stiftung,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,-1
+"Center for AIDS Research, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Science and Industry Endowment Fund,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1
+Agencia Nacional de Investigación e Innovación,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,3
+Uehara Memorial Foundation,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0,-1
+Age Endeavour Fellowship,0,0,0,0,0,5,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,19
+Novartis Pharma,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+University of Akron,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-1
+Stryker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Los Alamos National Laboratory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,3,0,0,0,4
+Ministry of Health and Welfare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Taipei Hospital,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+Ontario Brain Institute,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+California Earthquake Authority,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,6
+"Department of Food Science and Technology, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Takahashi Industrial and Economic Research Foundation,1,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+Thailand Toray Science Foundation,5,0,3,0,1,0,0,0,3,0,0,3,1,0,0,1,1,0,0,2,0,1,0,-1
+Philipps-Universität Marburg,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,-1
+National Research Council,0,0,0,0,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,-1
+Medical College of Wisconsin,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Qatar National Research Fund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,6
+Centre for Asia-Pacific Initiatives,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+"Academic Senate, University of California, Riverside",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Uniwersytet Jagielloński Collegium Medicum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,-1
+U.S. President’s Emergency Plan for AIDS Relief,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Chaipattana Foundation,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Ningxia University,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Jain University,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Scuola Normale Superiore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Universiti Brunei Darussalam,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Shanghai Academy of Spaceflight Technology,1,0,0,1,1,0,0,0,2,1,1,0,1,0,0,0,0,0,0,2,0,0,0,-1
+Shandong University,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Harvard Transdisciplinary Research in Energetics and Cancer Center, Harvard University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Ministry of Higher Education and Scientific Research,2,0,0,0,4,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0,0,0,-1
+Karlsruhe Institute of Technology,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,0,0,0,17
+Queen Mary University of London,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Smithsonian Environmental Research Center,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Smithsonian Tropical Research Institute,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"School of Energy Resources, University of Wyoming",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Optical Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+National Institute for Social Care and Health Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+American Association of Petroleum Geologists,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Cancer Research Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Disability Rights Fund,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Plovdiv University Paisii Hilendarski""""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,-1
+"University of the Witwatersrand, Johannesburg",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Newborn Brain Research Institute, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Center for Latin American Studies, University of California, Berkeley",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Society for the Teaching of Psychology,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,-1
+Srinakharinwirot University,2,0,3,2,10,2,1,3,0,11,2,0,10,1,5,1,0,0,3,1,0,1,0,-1
+Toyota Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7
+Fundacja dla Uniwersytetu Medycznego w Łodzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+New Mexico State University,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Japan Agency for Medical Research and Development,0,0,8,2,0,1,0,0,0,1,0,5,2,0,15,2,1,0,1,2,0,0,0,-1
+Eunice Kennedy Shriver National Institute of Child Health and Human Development,0,0,2,0,0,0,0,0,0,0,0,5,0,0,25,0,0,0,0,0,0,0,0,-1
+Gulf Research Program,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,5
+Ministry of Health,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+Association pour la Recherche Thérapeutique Anti-Cancéreuse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Salt Science Research Foundation,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"School of Medicine, Kyorin University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+National Alliance for Research on Schizophrenia and Depression,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+Nacey Maggioncalda Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,7
+Animal Behavior Society,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Appalachian State University,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Olympus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Department of Agriculture and Rural Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"School of Veterinary Medicine, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"School of Pharmacy, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1
+Astute Medical,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Barrow Neurological Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+Tower Cancer Research Foundation,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Regeneron Pharmaceuticals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2
+International Society for Peritoneal Dialysis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+International Society of Nephrology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,2
+Air War College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,4
+Ministry of Defence,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Allergopharma,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Merck Sharp and Dohme,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,2
+Ministry of Education,5,1,3,5,4,0,0,1,4,1,5,1,3,0,2,0,0,0,1,17,0,5,0,-1
+Mental Health Research UK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+Humane Research Trust,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14
+Center for African Studies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Ministry of Education,3,0,0,1,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,4,0,0,0,-1
+University of Greenwich,2,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+Towson University,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Shanghai Aircraft Manufacturing Company,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Secretaría de Educación Pública,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,6
+Shanghai Association for Science and Technology,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Academia de Ştiinţe a Moldovei,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Noda Institute for Scientific Research,0,0,3,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+University of Colorado,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+British Herpetological Society,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Department of Health, Queensland",0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Wellcome Trust,1,0,2,1,1,0,0,0,0,0,2,9,0,0,22,1,3,0,1,0,0,0,2,-1
+Seattle Genetics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Interpace Diagnostics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"College of Science, Technology, Engineering, and Mathematics, Youngstown State University",0,0,1,0,4,0,0,0,2,1,1,0,0,0,0,0,0,0,2,0,0,0,0,-1
+Francis Crick Institute,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,-1
+Past Global Changes,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Türkiye Atom Enerjisi Kurumu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,6
+Ministry of Education,2,0,3,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Defense Intelligence Agency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Research, Development and Engineering Command",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+"Clinical and Translational Science Institute, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Ohio Coal Development Office,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,12
+Walton Family Foundation,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,7
+"MIND Institute, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Natural Reserve System, University of California",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+National Computational Infrastructure,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Horizon 2020 Framework Programme,5,0,0,0,0,1,0,2,1,2,5,1,0,2,3,0,0,0,0,13,0,1,0,-1
+H2020 European Research Council,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,-1
+H2020 Marie Skłodowska-Curie Actions,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+undefined,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+H2020 LEIT Information and Communication Technologies,0,0,0,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,1,0,0,0,0
+Dairy Farmers of Canada,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Harbin Medical University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Asahi Kasei Pharma Corporation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Schweizerischen Neurologischen Gesellschaft,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Pfizer Japan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Chugai Pharmaceutical,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Keemilise ja Bioloogilise Füüsika Instituut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Temple University,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ViiV Healthcare,0,0,0,0,0,0,0,0,0,0,0,1,0,0,31,1,2,0,1,0,0,0,0,-1
+Nestlé Health Science,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Newton Fund,1,0,7,0,0,0,1,0,0,0,2,1,0,0,10,4,1,0,1,0,0,0,0,-1
+Illumina,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+"School of Medicine, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Museum of Comparative Zoology, Harvard University",4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+European SocieTy for Radiotherapy and Oncology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,10
+Intelligence Community Postdoctoral Research Fellowship Program,0,0,1,0,1,0,0,0,0,1,1,0,1,0,3,0,0,0,1,1,0,0,0,-1
+Asahi Group Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Statens Naturhistoriske Museum,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Research Opportunities Initiative, University of North Carolina",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+FHI 360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"Nutrition Obesity Research Center, University of North Carolina",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Liver Center, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"David Geffen School of Medicine, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Ziman Center for Real Estate, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Center for U.S.-Mexican Studies, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Department of Anthropology, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Department of Plant Sciences, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Shell Exploration and Production Company,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Jazz Pharmaceuticals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Seventh Framework Programme,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,-1
+"Council on Research, Computing, and Libraries, University of California, Irvine",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Jacobs School of Engineering, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"School of Global Policy and Strategy, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UCB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"Anderson School of Management, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Center on Global Transformation, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Office of Research and Economic Development, University of California, Riverside",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+New Jersey Agricultural Experiment Station,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+FP7 Ideas: European Research Council,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,-1
+American Society of Cataract and Refractive Surgery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Society for Mathematical Biology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Weston Havens Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,6
+"Center for Wireless Communications, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+FP7 International Cooperation,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+FP7 People: Marie-Curie Actions,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+undefined,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Department of Anthropology, History and Social Medicine, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Department of Pediatrics, University of Florida",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Central Lakes Trust,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+"Innovation, Science and Economic Development Canada",0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,17
+Polymerat,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+University of South Alabama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,0,0,-1
+"Department of Psychology, University of Wisconsin-Madison",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,3
+Santa Fe Institute,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,6
+Louisiana Academy of Sciences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,6
+Rochester Academy of Science,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,6
+Cholangiocarcinoma Foundation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Agricultural Experiment Station, New Mexico State University",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+National Research Foundation,0,0,0,1,5,0,0,0,0,2,4,1,1,0,2,0,0,0,0,21,0,0,0,-1
+Missouri University of Science and Technology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,6
+Ames Laboratory,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Elekta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2
+SMA Trust,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+WellChild,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Bioenergy Technologies Office,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Melvin and Bren Simon Cancer Center, Indiana University",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Rudi Schulte Research Institute,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Tuskegee University,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Michigan Health Endowment Fund,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Campaign Urging Research for Eosinophilic Disease,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Vehicle Technologies Office,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Medical Engineering Centre, King’s College London",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,6
+Takeda Oncology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Vietnam Academy of Science and Technology,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Institute of Chartered Accountants Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Arcadia Fund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Alzheimer's Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1
+Brain Science Foundation,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,19
+Royal Marsden NHS Foundation Trust,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,-1
+Neuro Research Charitable Trust,1,0,0,3,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,-1
+"Faculty of Medicine, University of British Columbia",0,0,0,0,0,2,0,0,1,1,0,2,0,0,5,0,0,0,0,1,0,0,0,-1
+Disney Conservation Fund,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Astellas Pharma Canada,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Bergische Universität Wuppertal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+BP Exploration Operating Company Limited,0,0,1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Saudi Arabia Cultural Bureau in London,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,-1
+"Kavli Institute for Brain and Mind, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"School of Medicine, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Graduate School, Southern Illinois University",3,0,1,0,0,4,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,-1
+CERN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,6
+University of Washington College of Arts and Sciences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,6
+Royal Perth Hospital Medical Research Foundation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+"Sundhedsvidenskabelige Fakultet, Aarhus Universitet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Office of the Higher Education Commission,26,1,38,5,10,4,3,9,10,13,34,8,8,8,13,9,0,1,9,17,0,2,2,18
+"Centre of Excellence for Core to Crust Fluid Systems, Australian Research Council",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+Swedish Cancer Foundation,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,-1
+Guangdong Innovative and Entrepreneurial Research Team Program,0,0,0,0,2,0,0,0,2,1,0,0,5,0,0,0,0,0,0,1,0,0,0,-1
+Sichuan Province Science and Technology Support Program,0,0,0,0,4,0,0,0,0,0,0,0,10,0,0,0,0,0,0,3,0,0,0,0
+Chang Gung Memorial Hospital,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,1,0,0,0,0,-1
+Sichuan Youth Science and Technology Foundation,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Marc Fitch Fund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Franklin and Marshall College,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Novocure,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Canadian Centre for Applied Research in Cancer Control,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,-1
+"College of Natural Resources and Sciences, Humboldt State University",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,-1
+Clorox Company,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9
+Ordnance Survey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Tecnológico Nacional de México,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Jane and Terry Semel Institute for Neuroscience and Human Behavior, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Elanco Animal Health,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1
+Innovationsfonden,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+"United Graduate School of Agricultural Sciences, Kagoshima University",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+"Ministry of Science and Technology, Government of Nepal",0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,14
+Ministry of Energy,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,2,0,0,0,-1
+Energy Policy and Planning Office,0,0,1,3,3,0,0,0,5,0,2,0,1,0,0,0,0,0,0,2,0,0,0,-1
+Gifu University,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Thailand Center of Excellence in Physics,0,3,0,0,0,1,0,0,0,2,4,0,2,2,0,2,0,0,0,8,0,1,0,-1
+Zoetis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,15
+Vidyasirimedhi Institute of Science and Technology,1,1,16,3,5,1,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,1,0,-1
+PTT Public Company Limited,0,0,3,1,3,0,0,2,2,3,1,0,5,0,0,1,0,0,0,0,0,0,0,-1
+Tomsk Polytechnic University,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,5,0,0,0,-1
+"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation",0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,-1
+NSCAD University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Frank McGraw Memorial Chair in Cancer Research,0,0,0,0,0,3,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,1,0,-1
+"Department of Anesthesiology and Pain Medicine, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Division of Materials Sciences and Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Association of College and University Housing Officers - International,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+National Research Council,1,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,-1
+"Centre of Excellence for Integrative Brain Function, Australian Research Council",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+Blond McIndoe Research Foundation,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Center for Undergraduate Research and Scholarship, Bowling Green State University",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8
+Gulf Coast Ecosystem Restoration Council,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,3
+Office of Refugee Resettlement,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Research and Innovative Technology Administration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Carolina Population Center, University of North Carolina at Chapel Hill",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Saskatchewan Pulse Growers,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Les Laboratories Pierre Fabre,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Health Promotion Administration, Ministry of Health and Welfare",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"Center for Global Peace and Conflict Studies, School of Social Sciences, University of California, Irvine",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"University of California, Berkeley Foundation",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Directorate-General for Justice and Consumers,0,0,1,3,1,2,0,0,0,2,0,0,2,0,0,0,0,0,0,3,0,0,0,-1
+Directorate-General for Migration and Home Affairs,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9
+Competitiveness of Enterprises and Small and Medium-sized Enterprises,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+Eurostars,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+"Department of Physics and Astronomy, University of California, Irvine",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Rijksdienst voor Ondernemend Nederland,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+Center for Cultural Innovation,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Cosmetic Surgery Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+American Association for Laboratory Animal Science,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"New Mexico Water Resources Research Institute, New Mexico State University",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"California Institute for Water Resources, University of California",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"West Coast Metabolomics Center, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Faculty Professional Development Council, Pennsylvania State System of Higher Education",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,12
+Henry and Marilyn Taub Foundation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Environmental Institute for Golf,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Retina Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+North Carolina Humanities Council,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,-1
+Directorate-General for International Partnerships,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9
+Government of the United Kingdom,1,0,0,0,0,0,0,0,0,0,1,2,0,0,4,0,2,0,0,0,0,0,0,-1
+Theravance Biopharma US,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+UK Research and Innovation,2,0,2,0,0,0,0,0,0,0,0,0,4,0,0,1,1,0,0,0,2,0,1,-1
+Armed Forces Health Surveillance Branch,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Armed Forces Research Institute of Medical Sciences,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,3
+Naval Health Research Center,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1
+"Graduate School, University of Oregon",0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,-1
+Vera and Joseph Dresner Foundation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Key Technology Research and Development Program of Shandong,1,0,1,0,1,0,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,-1
+Riordan Foundation,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+American Kidney Fund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,10
+Parkinson Study Group,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,5
+Art Fund,4,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,-1
+FURTHERMORE grants in publishing,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Simons Foundation Autism Research Initiative,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+ACADIA Pharmaceuticals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+"Centre of Excellence for Coral Reef Studies, Australian Research Council",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+Eli Lilly Japan,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Acorda Therapeutics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Center for Bioenergy Innovation,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+"NIHR Biomedical Research Centre, Royal Marsden NHS Foundation Trust/Institute of Cancer Research",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Clovis Oncology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"Genome Center, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Parker Institute for Cancer Immunotherapy,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Rutherford Appleton Laboratory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Alvin J. Siteman Cancer Center,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Office of the President, University of California",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Sanofi Pasteur,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,-1
+Neurocrine Biosciences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+National Outstanding Youth Science Fund Project of National Natural Science Foundation of China,2,0,1,0,1,0,0,0,1,0,0,0,3,0,0,0,0,0,0,2,0,0,0,-1
+Innovative Research Group Project of the National Natural Science Foundation of China,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Royal College of Physicians and Surgeons of Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Osteo Science Foundation,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Texas Research Society on Alcoholism,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Cerecor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Association of Performing Arts Professionals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+University Transportation Centers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Immunodiagnostic Systems Holdings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Supernus Pharmaceuticals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+"Center for Research in Open Source Software, University of California, Santa Cruz",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Cambia Health Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Institute for Energy Efficiency, University of California, Santa Barbara",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Ruiz Department of Ophthalmology and Visual Science, McGovern Medical School",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,3
+Thailand Center of Excellence for Life Sciences,2,0,1,0,0,0,0,0,0,0,0,3,0,0,5,0,0,0,1,0,0,0,0,-1
+Ministère de la Culture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+"Johnson Cancer Research Center, Kansas State University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Fauna and Flora International,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Adamas Pharmaceuticals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Revance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Australian Government,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,2
+EDF Energy Research and Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+CancerFree KIDS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Transducers Research Foundation,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Mayekawa Houonkai Foundation,1,0,2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,-1
+JFE 21st Century Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10
+Barts Charity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Division of Microbiology and Infectious Diseases, National Institute of Allergy and Infectious Diseases",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,1
+Fresenius Medical Care North America,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"Center for Cell Signaling in Gastroenterology, Mayo Clinic",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Bayer Yakuhin,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Cilag,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,2
+Kidney Fund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Danone Nutricia Research,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Tao Yuan General Hospital, Ministry of Health and Welfare",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+National Brain Appeal,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,5
+Sanofi K.K.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Shikata Memorial Trust for Nature Conservation,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,12
+Gilead UK and Ireland Corporate Contributions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Takeda Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Postdoctoral Scientific Research Development Fund of Heilongjiang Province,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Tennessee Higher Education Commission,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+U.S. Army Medical Research and Development Command,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+Chulabhorn Royal Academy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"Science and Technology Postgraduate Education and Research Development Office, Office of the Higher Education Commission",1,0,3,0,1,0,0,0,2,1,5,1,0,0,1,2,0,0,1,1,0,1,1,-1
+"Clinical and Translational Science Institute, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Center for Networked Systems, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+ASEAN-European Academic University Network,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+National Astronomical Research Institute of Thailand,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+AgNovos Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Ministère de l’Éducation, Gouvernement de l’Ontario",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Kyowa Kirin Pharmaceutical Development,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,5
+San Diego Supercomputer Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Center for Medicinal Cannabis Research, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Center for Companion Animal Health, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1
+"Office of the Chancellor, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Roche Diagnostics,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"School of Medicine, University of California, Irvine",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Nick Simons Foundation,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Kempe Foundation,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,14
+Natural Science Foundation of Xiamen City,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Institute for the Promotion of Teaching Science and Technology,2,0,0,0,2,0,0,0,0,0,1,2,1,0,0,4,0,0,0,5,0,0,0,-1
+Kyoto University Foundation,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Comprehensive Cancer Center, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Office of Research Infrastructure Programs, National Institutes of Health",0,0,2,0,0,0,1,0,0,0,0,0,0,0,4,1,0,0,1,0,0,0,0,-1
+"Ministerio de Educación Superior, Ciencia y Tecnología, República Dominicana",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+University of Tennessee at Chattanooga,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+"State Key Laboratory of High-efficiency Utilization of Coal and Green Chemical Engineering, Ningxia University",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+National Energy Research Scientific Computing Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Boehringer Ingelheim Japan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Innovation Fund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Penta Foundation UK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Tokyo Shinagawa Hospital,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,3
+SRM Institute of Science and Technology,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,2,0,0,0,0,-1
+"Centre of Excellence in Mathematics, Mahidol University",0,0,4,2,16,2,0,0,0,4,0,5,3,2,7,4,0,0,4,0,0,0,0,-1
+"Weill Institute for Neurosciences, University of California, San Francisco",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"John Muir Institute of the Environment, University of California, Davis",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Marine Science Institute, University of California, Santa Barbara",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Mississippi State Department of Health,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+"Center for HIV Identification, Prevention, and Treatment Services, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Asian Office of Aerospace Research and Development,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"Center for Aerosol Impacts on Chemistry of the Environment, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Kanton Zürich,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Institute for Clinical and Translational Science, University of California, Irvine",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Taipei Medical University-Shuang Ho Hospital, Ministry of Health and Welfare",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+"Children's Discovery and Innovation Institute, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Mattel Children's Hospital, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Alkermes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"College of Engineering, New Mexico State University",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Spins and Heat in Nanoscale Electronic Systems, University of California, Riverside",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Colorado Office of Economic Development and International Trade,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+"Center for Complex Biological Systems, University of California, Irvine",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Life Sciences, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Department of Radiology, Weill Cornell Medical College",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Institute for Pure and Applied Mathematics, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Yuhan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+"Institute for Digital Research and Education, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Alfred University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Ministry of Science and Technology, Pakistan",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Siriraj Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Faculty of Medicine, American University of Beirut",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,4
+Kyosho Hatta Foundation,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0
+AstraZeneca España,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Institute of the Environment and Sustainability, University of California, Los Angeles",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+World Health Organization Centre for Health Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,10
+National Scleroderma Foundation,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"HIV Neurobehavioral Research Center, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"San Diego Digestive Diseases Research Center, School of Medicine, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Materials Research Science and Engineering Center, University of California, San Diego",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+GlaxoSmithKline Biologicals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Chulalongkorn University,37,0,89,181,209,36,4,25,375,215,384,7,157,13,110,11,0,2,49,206,2,2,11,18
+Chulalongkorn University,514,68,608,267,555,243,65,121,204,576,408,233,493,74,772,203,68,62,303,285,30,218,135,18
+Thailand Graduate Institute of Science and Technology,8,0,10,8,14,0,0,0,1,4,6,4,3,1,3,2,0,0,4,2,0,0,0,-1
+Thailand Research Fund,268,10,385,130,295,41,24,55,37,194,121,130,229,52,238,85,35,6,108,122,2,33,62,18
+National Natural Science Foundation of China,26,2,22,13,30,2,1,21,19,32,39,5,56,1,16,3,1,1,6,54,0,5,0,18
+Yanshan University,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+Chiang Mai University,11,0,18,11,29,3,4,5,3,6,12,4,22,4,30,2,3,3,9,10,1,0,2,18
+Mahidol University,24,0,69,20,40,6,4,3,10,16,34,23,19,5,73,16,4,1,24,13,2,1,5,18
+National Science Foundation,1,1,1,1,3,5,0,0,0,1,2,2,0,0,2,6,0,0,0,5,1,0,0,-1
+Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,2,0,5,2,0,4,0,0,0,6,5,8,2,0,5,0,1,0,1,5,0,2,0,-1
+"Faculty of Veterinary Science, Chulalongkorn University",25,4,38,14,49,17,6,10,10,32,25,17,19,4,51,22,8,7,20,13,0,14,20,18
+Agència de Gestió d'Ajuts Universitaris i de Recerca,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+Alberta Livestock and Meat Agency,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+Japan Society for the Promotion of Science,32,0,53,7,34,8,4,15,3,26,37,16,23,1,26,8,5,0,10,14,4,6,1,18
+National Astronomical Observatory of Japan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+Armagh Observatory,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+National Science and Technology Development Agency,58,0,113,50,83,15,6,3,37,42,67,41,92,11,88,32,8,0,19,90,0,3,10,18
+"Faculty of Science, Silpakorn University",1,0,0,0,1,0,0,0,1,0,0,1,1,0,2,0,0,0,0,1,0,0,0,-1
+"Kementerian Sains, Teknologi dan Inovasi",1,0,3,0,0,0,0,1,0,1,3,0,0,0,0,1,0,0,0,0,0,0,0,-1
+National Research Council of Thailand,139,13,200,108,260,62,23,46,67,134,115,87,171,12,200,59,19,4,89,40,5,26,25,18
+MedImmune,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,-1
+Arthritis Research UK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Medical Research Council,0,0,3,0,0,0,0,0,0,0,0,8,0,0,6,3,2,0,2,0,0,0,0,-1
+Kasetsart University,18,1,8,4,9,0,0,1,3,8,13,6,13,0,3,2,1,0,3,2,0,1,3,18
+Australian Research Council,5,0,10,1,8,0,0,2,0,0,4,2,0,2,1,3,1,1,1,0,4,2,1,-1
+Ministry of Public Health,1,0,1,0,0,0,0,0,0,1,0,0,1,0,11,0,0,1,0,0,0,1,0,-1
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,1,0,2,0,0,0,4,0,0,0,0,0,0,0,13,0,13,0,2,38,3,0,0,-1
+Conselho Nacional de Desenvolvimento Científico e Tecnológico,1,1,5,0,1,5,0,0,0,4,0,2,1,0,11,0,12,0,2,40,1,2,0,-1
+Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,5
+Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,2,0,-1
+National Research Foundation of Korea,1,4,7,4,7,0,0,1,3,4,4,0,17,0,8,0,0,0,3,20,0,3,0,-1
+Seoul National University,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+China Scholarship Council,2,0,5,3,10,2,0,2,0,1,7,2,3,0,0,2,0,0,0,1,0,0,0,-1
+Ministry of Economic Affairs,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+"Ministry of Science and Technology, Taiwan",4,1,3,3,4,0,0,3,3,4,12,0,4,0,9,0,0,0,2,3,1,3,0,-1
+Háskóli Íslands,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,-1
+Prince of Songkla University,10,0,6,4,12,2,1,4,2,8,7,4,6,9,8,2,0,1,2,5,0,2,1,18
+University of New South Wales,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Ministry of Science and Technology of Thailand,6,0,19,22,25,2,0,0,1,8,18,0,29,0,6,3,0,0,0,19,0,0,0,-1
+National Nanotechnology Center,14,0,40,43,53,3,0,0,8,19,38,1,61,1,2,0,0,0,6,39,0,0,3,18
+Max-Planck-Gesellschaft,4,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,-1
+Chinese Academy of Sciences,8,2,3,2,1,0,0,6,3,0,10,2,0,0,0,0,0,0,0,20,0,2,0,-1
+Miyakawa Memorial Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Hokkaido University,0,0,0,0,1,0,0,0,0,3,0,2,2,0,0,2,0,0,0,0,0,0,0,-1
+University of Technology Sydney,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Imperial College London,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,13,0,0,1,0,0,0,5
+Electricity Generating Authority of Thailand,1,0,0,1,1,11,0,3,5,8,4,0,1,3,0,0,0,0,0,3,0,0,0,-1
+"African Laser Centre, Council for Scientific and Industrial Research",0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Japan International Cooperation Agency,3,1,2,1,0,10,0,0,5,49,8,5,3,1,3,1,0,0,0,1,0,4,0,-1
+Fundação de Amparo à Pesquisa do Estado de São Paulo,1,1,3,0,3,8,2,0,0,6,0,2,2,1,9,0,6,0,1,46,3,2,0,-1
+Curtin University of Technology,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Fonds Wetenschappelijk Onderzoek,0,0,1,0,0,0,0,2,0,0,1,1,0,3,5,1,1,0,0,39,0,1,1,-1
+Universiteit Gent,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,12
+Universiteit Utrecht,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+University of Adelaide,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Otsuka Pharmaceutical,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Santen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+King Mongkut's Institute of Technology Ladkrabang,12,0,8,4,4,3,0,0,1,6,4,1,3,2,3,2,0,0,0,4,0,0,0,-1
+Thammasat University,3,0,9,4,14,7,3,1,7,15,7,3,17,4,9,6,0,0,4,4,0,6,0,18
+National Center for Genetic Engineering and Biotechnology,7,0,11,0,1,0,0,0,0,0,1,8,1,1,5,0,0,0,0,1,0,0,1,-1
+"Faculty of Medicine, Chulalongkorn University",41,12,76,16,57,27,11,18,11,47,37,37,25,7,161,59,16,10,30,21,4,24,16,18
+Department of Science and Technology,1,0,5,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+"Department of Science and Technology, Government of Kerala",0,0,1,1,0,0,0,0,0,1,0,0,1,0,3,0,4,0,1,1,0,0,0,-1
+A.G. Leventis Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,6
+Academy of Finland,2,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,37,0,0,0,-1
+Bundesministerium für Bildung und Frauen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,6
+"Bundesministerium für Wissenschaft, Forschung und Wirtschaft",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,6
+Benemérita Universidad Autónoma de Puebla,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,38,0,0,0,4
+Federaal Wetenschapsbeleid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,6
+China Earthquake Administration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,6
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,6
+Consejo Nacional de Ciencia y Tecnología,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,2,39,0,0,0,-1
+"Department of Atomic Energy, Government of India",0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,38,0,0,0,6
+"Department of Science and Technology, Government of Rajasthan",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,16,0,0,0,6
+European Research Council,1,0,4,0,0,0,0,2,0,0,0,6,0,0,4,1,1,0,0,29,0,0,0,-1
+Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,6
+Fundació Catalana de Trasplantament,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,6
+European Regional Development Fund,2,0,5,0,0,0,0,0,0,1,1,4,1,0,2,0,2,0,2,37,0,0,1,-1
+Federación Española de Enfermedades Raras,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,6
+Fundacja na rzecz Nauki Polskiej,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,6
+Fonds De La Recherche Scientifique - FNRS,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,37,0,0,0,6
+Fonds pour la Formation à la Recherche dans l’Industrie et dans l’Agriculture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,6
+Austrian Science Fund,0,0,0,1,3,0,0,0,0,0,0,1,0,0,2,0,0,0,2,35,0,0,0,-1
+General Secretariat for Research and Technology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,6
+Helmholtz Association,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,6
+Agentschap voor Innovatie door Wetenschap en Technologie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0,0,6
+Horizon 2020,0,0,4,1,4,1,0,0,0,0,0,0,0,0,4,0,2,0,0,13,0,0,0,-1
+Instituto Nazionale di Fisica Nucleare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,6
+Institute for Research in Fundamental Sciences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,6
+Joint Institute for Nuclear Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,6
+"Ministry of Business, Innovation and Employment",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,6
+State Key Laboratory of Materials- Oriented Chemical Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,6
+Ministry of Education and Science,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,6
+Ministerstwo Nauki i Szkolnictwa Wyższego,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,6
+Ministry of Science ICT and Future Planning,0,0,2,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,21,0,0,0,-1
+Magyar Tudományos Akadémia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,6
+"Ministerstvo Školství, Mládeže a Tělovýchovy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,6
+National Academy of Sciences of Ukraine,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,38,0,0,0,6
+Narodowym Centrum Nauki,0,0,0,0,0,5,0,1,0,1,0,0,0,4,0,4,0,0,0,3,0,0,0,-1
+National Science Council,0,0,0,0,2,0,0,1,0,0,0,0,3,0,0,0,0,0,0,25,0,0,0,-1
+National Stroke Foundation,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,17,0,0,0,6
+Pakistan Atomic Energy Commission,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,6
+Russian Foundation for Basic Research,16,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,30,0,0,0,-1
+State Atomic Energy Corporation ROSATOM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,6
+Research Promotion Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,6
+"Secretaría de Estado de Investigación, Desarrollo e Innovación",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,6
+"Secretaría de Educación Superior, Ciencia, Tecnología e Innovación",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,6
+State Fund for Fundamental Research of Ukraine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,6
+Science and Technology Facilities Council,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,38,0,0,0,-1
+Türkiye Bilimsel ve Teknolojik Araştirma Kurumu,0,0,1,0,4,0,0,0,0,0,2,1,1,0,1,0,0,0,0,18,0,0,0,-1
+Univerza v Mariboru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,6
+"Ministry of Education, Culture, Sports, Science and Technology",6,0,12,4,10,4,4,0,1,8,10,4,9,0,13,0,1,0,2,8,0,2,1,18
+"Ministry of Education, Youth and Science",2,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,4,0,0,0,-1
+Országos Tudományos Kutatási Alapprogramok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,6
+"Faculty of Medicine, Prince of Songkla University",2,0,5,0,1,1,0,0,0,0,0,3,0,6,15,1,0,0,3,1,0,1,0,-1
+Deutsche Forschungsgemeinschaft,5,0,8,2,3,0,0,0,0,1,1,3,4,2,7,2,1,0,0,17,0,0,0,-1
+Khon Kaen University,19,0,9,5,10,6,3,0,0,11,19,4,15,0,23,4,0,0,7,9,1,1,0,-1
+Tianjin Science and Technology Committee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+National Institute for Health Research,0,0,2,0,0,0,2,0,0,0,0,0,0,0,10,0,1,0,0,0,2,0,0,-1
+Belgorod National Research University,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,0,0,2,0,0,0,0,-1
+Korea Forest Service,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,14
+Thailand Science Park,0,0,0,0,1,0,0,0,0,0,0,2,2,0,2,0,0,0,1,1,0,0,0,-1
+Ministerio de Economía y Competitividad,2,0,2,1,1,0,0,0,0,0,1,7,0,1,0,0,2,0,0,1,0,1,0,-1
+SCG Chemicals,0,0,0,3,1,0,0,0,0,0,0,0,4,0,0,1,0,0,0,1,0,0,0,9
+Mahasarakham University,5,0,4,1,4,5,0,1,0,3,1,0,7,1,1,0,0,0,1,3,0,0,2,-1
+"Ministry of Higher Education, Malaysia",6,0,1,1,6,3,0,1,3,1,2,2,6,0,2,0,1,0,2,2,0,1,1,-1
+Universiti Putra Malaysia,3,0,2,3,6,0,0,0,0,0,2,2,1,0,1,1,0,0,2,0,0,0,1,-1
+National Metal and Materials Technology Center,0,0,1,1,5,1,1,0,6,6,4,0,10,5,0,0,2,0,0,2,0,0,0,-1
+Karl-Franzens-Universität Graz,0,0,2,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Sveriges Lantbruksuniversitet,2,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,12
+Japan Science and Technology Agency,5,0,6,7,14,2,0,1,6,24,8,2,26,0,1,0,0,0,0,7,0,0,0,-1
+Science and Technology Research Partnership for Sustainable Development,2,0,1,0,0,0,0,0,0,25,9,5,0,0,0,1,0,0,0,0,0,0,0,-1
+Natural Environment Research Council,1,0,0,0,0,0,0,4,0,0,6,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Leverhulme Trust,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1
+Centre National de la Recherche Scientifique,0,0,0,0,0,0,0,2,0,3,0,0,0,0,4,0,0,0,0,5,0,0,0,-1
+"Canada Excellence Research Chairs, Government of Canada",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Physicians' Services Incorporated Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,5
+Silpakorn University,1,0,3,2,2,0,0,0,4,11,3,1,6,2,0,0,0,0,3,5,0,0,0,-1
+Japan Science Society,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,7
+University of Tokyo,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,4,0,0,0,0,0,1,0,-1
+Burapha University,1,1,6,1,1,0,0,0,0,1,3,0,0,0,0,2,0,0,0,0,2,1,3,-1
+"Faculty of Science, Mahidol University",2,0,18,3,16,2,0,1,0,6,2,8,5,2,12,5,0,0,5,0,0,0,0,-1
+Københavns Universitet,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,-1
+University Grants Commission,2,0,0,0,4,0,0,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,0,-1
+"Medical Engineering Centre, King’s College London",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,6
+Crown Property Bureau,1,0,0,0,0,0,0,0,1,1,1,0,0,0,6,0,3,0,0,0,0,0,0,-1
+Department for International Development,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,14
+"Centre of Excellence in Plant Energy Biology, Australian Research Council",2,0,2,0,0,0,0,0,0,0,0,2,0,0,1,2,0,0,0,0,2,0,0,-1
+Ministère de la Santé,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,-1
+Kyoto University,1,0,2,1,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,1,0,-1
+International Spinal Research Trust,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Council of Scientific and Industrial Research,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,-1
+Narodowe Centrum Nauki,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,1,0,1,3,1,2,0,-1
+Ministry for Business Innovation and Employment,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,6
+SFU Community Trust Endowment Fund,1,0,2,1,0,0,0,0,1,0,4,0,0,0,3,3,0,0,0,0,0,0,1,-1
+"Faculty of Veterinary Medicine, Cairo University",1,0,4,1,0,0,0,0,0,0,0,3,0,0,1,1,0,0,0,0,0,0,0,-1
+Starmed,1,0,1,0,0,4,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,19
+"Higher Education Commission, Pakistan",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Walailak University,4,0,3,4,11,4,0,0,0,3,2,0,3,3,0,5,1,2,4,2,0,0,2,-1
+Meijo University,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Nanyang Technological University,1,0,4,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-1
+Universidad Autónoma de San Luis Potosí,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6
+"Department of Science and Technology, Government of West Bengal",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,6
+Isfahan University of Technology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6
+"Ministry of Education, Science and Technology",2,0,2,0,1,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,-1
+"Ministry of Science, ICT and Future Planning",0,0,0,0,2,0,0,0,1,1,0,0,6,0,1,0,0,0,0,18,0,0,0,-1
+Danish e-Infrastructure Cooperation,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+King Mongkut's University of Technology North Bangkok,3,0,6,5,6,11,0,6,0,7,3,0,5,2,0,1,0,0,1,5,0,0,0,-1
+"Department of Agriculture, Australian Government",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Universiti Malaysia Pahang,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,17
+Agricultural Research Development Agency,29,0,10,2,5,2,0,1,1,1,1,9,5,0,11,4,0,2,5,3,0,2,13,-1
+Grantová Agentura České Republiky,5,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,-1
+Ministerstvo Zemědělství,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Royal Society,5,0,1,0,0,0,4,0,0,0,3,1,0,0,4,5,1,0,0,3,0,1,1,-1
+Secretaria Nacional de Ciencia y Tecnología,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Srinakharinwirot University,2,0,1,2,7,0,0,1,1,5,2,0,2,1,0,0,0,0,0,1,0,0,1,-1
+Commissariat à l'Énergie Atomique et aux Énergies Alternatives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,6
+Helmholtz-Gemeinschaft,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,6
+Instituto Politécnico de Macau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Ministério da Educação,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,14
+"Ministry of Education, Ethiopia",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,14
+Foundation for Promotion of Material Science and Technology of Japan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Norsk Sykepleierforbund,0,0,1,0,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,2,0,0,0,-1
+Russian Academy of Sciences,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,6
+Thai Health Promotion Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,0,0,0,0,0,2,0,-1
+Lundbeckfonden,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Rangsit University,0,0,1,0,1,0,2,0,0,0,0,1,0,0,4,2,0,0,1,0,0,0,0,-1
+Ministry of Science and Technology,3,0,2,6,4,0,0,0,0,1,2,1,4,0,4,0,0,1,0,1,0,0,0,-1
+University of Liverpool,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Natural Sciences and Engineering Research Council of Canada,3,0,0,2,1,0,0,0,4,5,1,0,4,1,0,0,0,0,0,0,0,1,0,-1
+National Health and Medical Research Council,1,0,8,0,0,0,0,0,0,0,0,4,0,0,44,1,5,1,7,0,3,0,1,-1
+Carbon Trust,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Kempestiftelserna,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Knut och Alice Wallenbergs Stiftelse,5,0,3,1,3,2,0,0,0,4,4,0,5,5,0,1,0,0,0,4,0,0,0,-1
+Svenska Forskningsrådet Formas,1,0,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,14
+VINNOVA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+AllerGen,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,-1
+"Departamento de Ingeniería Mecánica, Universidad de Chile",0,0,0,2,1,1,0,1,2,2,1,0,2,0,0,0,0,0,0,2,0,0,0,-1
+"Lunds Tekniska Högskola, Lunds universitet",0,0,0,2,0,1,0,1,1,2,1,0,1,0,0,0,0,0,0,1,0,0,0,-1
+Vedecká Grantová Agentúra MŠVVaŠ SR a SAV,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,4,0,0,0,-1
+Nanjing University of Information Science and Technology,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9
+Ministry of Higher Education,3,0,1,1,0,0,0,0,3,1,6,4,1,0,1,0,0,0,0,2,0,0,0,-1
+Chinese Medical Association,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10
+Department of Education of Liaoning Province,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10
+York University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10
+King Mongkut's University of Technology Thonburi,0,0,7,3,9,7,0,5,4,11,14,0,7,0,2,1,0,0,0,5,0,1,0,-1
+"Faculty of Public Health, Mahidol University",0,0,4,2,16,2,0,0,3,2,0,1,3,0,3,0,0,0,3,1,0,0,0,-1
+Natural Science Foundation of Hubei Province,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0
+Canadian Association of Thoracic Surgeons,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Bundesministerium für Bildung und Forschung,2,0,2,0,2,2,0,0,0,0,1,2,2,1,2,0,0,0,0,16,0,0,0,-1
+Eesti Teadusagentuur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,1
+Eidgenössische Technische Hochschule Zürich,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,2,0,0,0,-1
+Fundação para a Ciência e a Tecnologia,1,0,2,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,18,0,0,0,-1
+Hrvatska Zaklada za Znanost,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Lietuvos Moksl Akademija,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Ministarstvo Prosvete, Nauke i Tehnološkog Razvoja",5,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,-1
+Ministry of Education and Science of the Russian Federation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Ministry of Science and Technology of the People's Republic of China,0,0,4,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,16,0,0,0,-1
+"Ministarstvo Znanosti, Obrazovanja i Sporta",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Opetus- ja Kulttuuriministeriö,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Paul Scherrer Institut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Science Foundation Ireland,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,17,0,0,0,-1
+Universiti Malaya,2,0,3,0,4,0,0,0,0,0,1,0,4,0,0,1,0,0,0,19,0,0,0,-1
+Utbildningsdepartementet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Gonville and Caius College, University of Cambridge",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+John Innes Foundation,2,0,4,2,4,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,-1
+Griffith University,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Queensland University of Technology,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Commission on Higher Education,0,0,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+European Southern Observatory,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+Korea Astronomy and Space Science Institute,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+National Institutes of Natural Sciences,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+"Instytut Farmakologii, Polskiej Akademii Nauk",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,-1
+Economic and Social Research Council,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,1,0,0,0,2,1,0,-1
+University of Bristol,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9
+National Research Foundation Singapore,1,1,7,0,1,2,0,8,0,1,2,3,0,2,1,1,0,0,0,2,0,1,0,-1
+Ministry of Education - Singapore,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,12
+International Centre for Genetic Engineering and Biotechnology,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Polska Akademia Nauk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,-1
+"Department of Education, Employment and Workplace Relations, Australian Government",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Jichi Medical University,0,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Cosmetology Research Foundation,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2
+Uppsala Universitet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7
+Construction Industry Research Institute of Malaysia,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,-1
+Kasetsart University Research and Development Institute,15,0,3,3,3,0,0,5,0,6,10,6,6,0,7,0,0,0,2,7,0,2,4,-1
+Chongqing Youth Science and Technology Talent Training Project,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Agence Nationale de la Recherche,6,0,0,0,0,0,0,1,0,0,2,0,0,0,3,2,0,0,0,1,0,0,0,-1
+Toagosei,1,0,1,0,0,3,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,-1
+Nederlands Instituut voor Onderzoek van de Gezondheidszorg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Center of Innovation Program,0,0,2,0,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,-1
+Ministry of Internal Affairs and Communications,0,0,0,0,0,3,0,0,0,3,0,0,1,1,0,0,0,0,0,2,0,0,0,19
+Jawaharlal Institute Of Postgraduate Medical Education and Research,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Vrije Universiteit Amsterdam,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Energy Research Institute, Nanyang Technological University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7
+Economic and Social Research Institute,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7
+ASELSAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7
+Chulabhorn Research Institute,0,0,8,2,3,0,0,0,0,0,16,5,2,0,1,0,0,0,0,1,0,0,0,-1
+Engineering and Physical Sciences Research Council,2,0,1,0,2,1,0,1,1,2,3,0,5,3,0,1,0,0,1,1,0,0,0,-1
+Energimyndigheten,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Kao Corporation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+National Research Council of Science and Technology,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0
+Royal Golden Jubilee (RGJ) Ph.D. Programme,24,0,24,7,19,1,0,3,8,6,8,17,18,1,9,9,2,1,8,6,0,2,9,18
+International AIDS Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,0,1,1,0,-1
+Kyungpook National University,0,0,1,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,1,0,0,0,-1
+LEO Pharma Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Novo Nordisk,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Department of Health & Social Care,1,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,-1
+National Center of Neurology and Psychiatry,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Arthur und Aenne Feindt Stiftung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Ministério da Saúde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Myer Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Health Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Forskningsrådet för Arbetsliv och Socialvetenskap,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Vetenskapsrådet,1,1,1,2,5,3,0,2,7,10,5,1,20,6,4,3,0,0,0,8,0,1,0,-1
+Fundação de Amparo à Pesquisa do Estado de Minas Gerais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+China Medical University Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Department of Health, Australian Government",2,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,-1
+University of Oxford,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Canadian Institutes of Health Research,0,0,1,1,4,1,0,0,0,0,0,1,0,0,9,1,0,0,0,0,2,0,0,-1
+Programme Grants for Applied Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Svenska Läkaresällskapet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Stiftelsen för Kunskaps- och Kompetensutveckling,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Royal Swedish Academy of Sciences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Core Research for Evolutional Science and Technology,2,0,5,0,1,0,0,0,0,0,0,2,1,0,2,0,2,0,0,0,0,0,0,-1
+Universiti Kebangsaan Malaysia,0,0,1,0,5,0,0,4,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,-1
+National High-tech Research and Development Program,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Southwest Petroleum University,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+"Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+National Medical Research Council,0,0,10,0,1,0,0,0,0,2,0,3,2,0,7,2,1,0,0,1,0,0,0,-1
+Biotechnology and Biological Sciences Research Council,0,0,1,1,2,0,0,0,0,0,0,2,2,0,4,1,0,0,4,0,0,0,1,-1
+Ipsen Fund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+Kaohsiung Medical University,0,0,1,0,0,0,0,0,0,1,0,1,0,0,5,0,0,0,1,0,0,0,0,-1
+Health Systems Research Institute,5,0,26,0,4,1,6,0,0,2,3,12,1,0,72,7,7,0,10,0,0,0,4,-1
+International Development Research Centre,3,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,1,1,-1
+Osaka University,0,0,3,0,0,0,0,0,0,4,1,1,2,0,2,0,0,0,0,2,0,0,0,-1
+Earmarked Fund for Modern Agro-industry Technology Research System,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14
+Natural Science Foundation of Zhejiang Province,0,0,1,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,-1
+Opening Project of Zhejiang Provincial Top Key Discipline of Pharmaceutical Sciences,0,0,1,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,-1
+Norges Idrettshøgskole,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,13
+Korea Institute of Energy Technology Evaluation and Planning,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0
+"Ministry of Trade, Industry and Energy",0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0
+"Faculty of Medicine Siriraj Hospital, Mahidol University",2,0,17,2,16,3,0,0,0,4,0,7,3,2,16,10,1,0,7,0,0,0,0,-1
+Chosun University,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+Malaysia-Thailand Joint Authority,0,0,1,5,6,1,0,1,1,2,2,0,5,0,1,1,0,0,0,3,0,0,0,-1
+National Research Foundation,0,0,1,1,1,0,0,0,0,2,2,0,1,0,3,0,0,0,3,0,0,1,0,-1
+"Higher Education Commision, Pakistan",4,0,1,1,0,0,0,0,0,2,5,0,0,1,0,0,0,0,2,0,0,0,0,-1
+"John Fell Fund, University of Oxford",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Secretaría Nacional de Ciencia, Tecnología e Innovación",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Ministry of Health,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Carlsbergfondet,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+"Unitatea Executiva pentru Finantarea Invatamantului Superior, a Cercetarii, Dezvoltarii si Inovarii",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+European Social Fund,0,0,1,1,4,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,-1
+Pécsi Tudományegyetem,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Novo Nordisk Fonden,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Hospital for Sick Children,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Migraine Trust,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5
+Synchrotron Light Research Institute,0,0,2,4,6,0,0,0,2,2,2,0,11,0,1,0,0,0,0,12,0,0,0,-1
+National Basic Research Program of China (973 Program),0,0,3,0,2,0,0,2,4,5,2,0,9,1,1,1,0,0,0,3,0,1,0,-1
+Danmarks Grundforskningsfond,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-1
+"Department of Science and Technology, Ministry of Science and Technology",0,0,5,0,1,0,0,0,0,0,2,0,0,0,1,0,0,0,2,7,0,0,0,-1
+Ministry of Education and Science of the Republic of Kazakhstan,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,6,0,0,0,-1
+Universitas Airlangga,4,0,2,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,2,0,0,1,0,-1
+Chinese Arctic and Antarctic Administration,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,12
+"Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica",0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+"Ministerio de Economía, Industria y Competitividad, Gobierno de España",0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16
+Japan Science and Technology Corporation,1,0,3,1,11,8,0,0,0,23,5,2,4,0,1,0,1,0,2,3,0,0,1,-1
+Board of Research in Nuclear Sciences,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14
+Monash University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+Nagoya University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+University of Sydney,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+University of Tasmania,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+University of Western Australia,0,0,0,0,0,0,0,0,0,0,4,0,0,0,8,2,0,0,0,0,0,0,0,-1
+State Administration of Traditional Chinese Medicine of the People's Republic of China,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+University of the Ryukyus,3,0,2,0,0,0,0,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Academic Center for Education, Culture and Research",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Center for Alcohol Studies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,3,0,0,0,0,4,0,-1
+Gwangju Institute of Science and Technology,2,0,1,0,0,4,0,1,0,4,7,0,0,0,0,0,0,1,0,2,0,0,0,-1
+Boehringer Ingelheim Stiftung,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,-1
+Toray Industries,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+National Electronics and Computer Technology Center,4,0,4,0,2,0,0,0,0,3,0,0,5,0,0,0,0,0,0,3,0,0,0,-1
+Naresuan University,0,1,1,1,4,3,0,0,0,2,2,2,3,0,4,0,0,0,3,3,0,1,1,-1
+University of Melbourne,0,0,1,0,1,0,1,0,0,0,0,0,1,0,2,0,0,0,1,0,0,0,0,-1
+Fundação Bial,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5
+"Consejo Nacional de Innovación, Ciencia y Tecnología",0,0,0,1,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,1,0,-1
+Isfahan University of Medical Sciences,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,0,0,0,1,0,0,0,0,3
+Nippon Foundation,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,-1
+Universiteit van Amsterdam,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Mae Fah Luang University,5,0,0,0,0,4,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,-1
+Suratthani Rajabhat University,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Institute of Research and Development, Rajamangala University of Technology Thanyaburi",1,0,0,0,0,4,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+British Medical Association,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Urmia University,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Gunma University,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,-1
+Tongji University,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Felix Scholarship,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,-1
+Ministry of Education,3,0,2,0,1,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Ministério da Ciência, Tecnologia e Inovação",0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+Christine Kühne – Center for Allergy Research and Education,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Servier,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Council for Science and Technology Policy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Ministry of Health, Labour and Welfare",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Princess Takamatsu Cancer Research Fund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+SENSHIN Medical Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Naval Research Board,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14
+Technische Universiteit Delft,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+Bauman Moscow State Technical University,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+National University of Singapore,0,0,1,2,5,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,0,-1
+Korea National Institute of Health,0,0,3,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0,0,-1
+Nagaoka University of Technology,0,0,0,1,1,0,0,0,0,4,0,0,2,0,0,0,0,0,0,2,0,0,0,-1
+British Ecological Society,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Consejo Nacional de Investigaciones Científicas y Técnicas,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Department of Electrical Engineering, Chulalongkorn University",30,5,43,14,51,25,8,16,12,45,33,20,24,7,71,35,9,8,21,19,1,18,12,18
+"Sähkötekniikan Korkeakoulu, Aalto-yliopisto",0,0,0,0,0,4,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,19
+Ministry of Education – Kingdom of Saudi Arabi,2,0,0,0,1,0,0,0,0,0,1,1,2,0,1,0,0,0,0,1,0,0,0,-1
+Hirosaki University,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,17
+"Central Mechanical Engineering Research Institute, Council of Scientific and Industrial Research",0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,-1
+Università degli Studi di Firenze,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Suranaree University of Technology,6,0,5,0,10,0,0,0,0,6,1,2,7,0,0,1,0,0,2,4,0,0,0,-1
+"Faculty of Medicine, Chiang Mai University",3,0,3,0,3,1,0,0,0,0,7,1,4,0,12,2,1,0,2,0,0,0,1,-1
+Tabriz University of Medical Sciences,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+Tohoku University,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,2,0,-1
+Royal Society of New Zealand,9,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14
+Masarykova Univerzita,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7
+"Science and Technology Development Center, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,4,0,0,2,0,0,0,1,0,0,0,0,-1
+Indian Council of Agricultural Research,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Tokyo Metropolitan University,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,-1
+"Department of Health and Ageing, Australian Government",0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+Canadian Association of Gastroenterology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Bộ Giáo dục và Ðào tạo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+International Atomic Energy Agency,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,1,0,2,0,0,0,10
+Vrije Universiteit Brussel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Faculty of Allied Health Sciences, Chulalongkorn University",32,5,46,14,49,17,9,16,10,40,33,20,23,5,71,35,9,8,21,17,2,18,12,18
+"Faculty of Science, Chulalongkorn University",37,5,46,18,53,17,8,17,10,40,33,21,26,5,70,35,9,8,21,19,1,19,12,18
+"Petroleum and Petrochemical College, Chulalongkorn University",30,5,43,20,51,17,8,16,10,42,35,20,30,5,70,35,9,8,21,18,1,18,12,18
+Svenskt Vatten,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Akademie Věd České Republiky,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,-1
+Thailand Science Research and Innovation,36,2,34,22,35,6,6,4,25,35,48,26,44,10,42,18,10,0,11,19,0,6,17,18
+"Council for Science, Technology and Innovation",0,0,0,0,0,0,0,0,0,8,0,0,4,0,0,0,0,0,0,4,0,0,0,0
+STMicroelectronics,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Bureau of Policy and Strategy, Ministry of Public Health",0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,4
+Natural Science Foundation of Shaanxi Province,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,17
+European Society of Intensive Care Medicine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Fundación Cardioinfantil - Instituto de Cardiología,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+European Society of Cardiology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Instituto de Salud Carlos III,0,0,0,0,0,0,0,0,0,0,0,3,0,0,5,0,1,0,0,0,0,0,1,-1
+University of Phayao,0,0,2,4,4,1,0,4,0,0,0,0,4,0,4,1,3,0,1,0,0,0,0,-1
+Udenrigsministeriet,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,14
+The Ministry of Economic Affairs and Employment,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,-1
+Australian Biological Resources Study,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Medical Research Council Canada,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+"Department of Biotechnology, Ministry of Science and Technology, India",0,0,2,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,-1
+Universiti Teknologi Malaysia,6,0,0,1,0,0,0,0,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Universiti Malaysia Perlis,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Aarhus Universitets Forskningsfond,0,0,0,0,0,2,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Biodiversity-Based Economy Development Office,4,0,6,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,-1
+Fundamental Research Funds for the Central Universities,1,0,2,2,1,0,0,0,2,2,0,0,5,0,1,0,0,0,1,1,0,2,0,-1
+Shanxi Provincial Key Research and Development Project,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+"Guangzhou Institute of Geochemistry, Chinese Academy of Sciences",0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,17
+Kurita Water and Environment Foundation,0,0,0,0,0,0,0,0,1,2,10,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Changhua Christian Hospital,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+National Yang-Ming University,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+Xi’an Jiaotong University,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+Cheng Hsin General Hospital Foundation,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+Center of Excellence for Biodiversity Management,13,0,1,0,0,0,0,3,1,0,2,0,0,0,0,2,0,0,0,0,0,0,0,-1
+"Faculty of Tropical Medicine, Mahidol University",0,0,6,2,16,2,0,0,0,4,0,7,3,2,12,4,0,0,4,0,0,0,0,-1
+Keimyung University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+European Academy of Neurology,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,-1
+Economy and Environment Program for Southeast Asia,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Australian Rotary Health,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+Multiple Sclerosis Research Australia,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+Beyond Blue,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,4,0,0,0,0,-1
+Cancer Council Queensland,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+Icelandic Centre for Research,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,-1
+"Institute of Postgraduate Studies, Universiti Sains Malaysia",0,0,0,0,0,3,0,1,2,1,2,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Ipsen,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,0,3,0,0,0,0,0,0,5
+Fondo Nacional de Desarrollo Científico y Tecnológico,2,0,0,0,2,0,0,0,0,0,1,0,2,0,0,0,1,0,1,2,2,0,0,-1
+Chubu University,0,0,0,0,0,7,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Weihai Science and Technology Development Program,1,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+Association of Southeast Asian Nations,2,0,1,2,2,0,0,0,0,0,0,1,2,0,0,0,0,0,0,5,0,0,0,-1
+Berlin Institute of Health,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1
+Sasol,0,0,0,2,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9
+Uniwersytet Medyczny w Bialymstoku,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Kyoto University Education and Research Foundation,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+National Institute of Animal Science,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Center of Excellence for Innovation in Chemistry,4,0,7,2,4,0,0,0,1,1,0,0,2,1,0,0,0,0,0,0,0,0,1,-1
+"Xiangya Hospital, Central South University",0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Fujian Provincial Health Commission,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Tangshan Science and Technology Bureau,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Chinese Society of Clinical Oncology,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Universidad Politécnica de Madrid,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Universiti Teknologi Petronas,2,0,3,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Ministério da Educação e Ciência,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+Association for Progressive Communications,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,9
+Universitas Hasanuddin,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1
+Universiti Sains Malaysia,2,0,0,2,1,3,0,0,2,4,2,0,0,0,1,0,1,0,0,0,0,1,0,-1
+Deutscher Akademischer Austauschdienst,1,1,2,1,0,0,0,1,0,0,1,1,0,0,3,0,2,0,0,0,0,1,0,-1
+Uniwersytet Jana Kochanowskiego w Kielcach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+"Science for Equity, Empowerment and Development Division",0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,-1
+Agencia Estatal de Investigación,0,0,0,0,6,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,-1
+Western University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+Comissão Nacional de Energia Nuclear,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Teadmistepõhise Ehituse Tippkeskus ZEBE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+National University Research Fund of China,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Ministry of Science and ICT, South Korea",2,0,1,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,16
+Norsk Revmatikerforbund,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16
+Australian Respiratory Council,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Youth Innovation Promotion Association of the Chinese Academy of Sciences,1,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Instituto Chico Mendes de Conservação da Biodiversidade,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Program for Jilin University Science and Technology Innovative Research Team,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Chung-Ang University,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Agentúra na Podporu Výskumu a Vývoja,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Austrian Institute of Technology,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+National Social Science Fund Youth Project,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,17
+King Saud University,3,0,3,0,2,1,0,0,0,1,1,2,1,0,3,0,0,0,0,2,0,0,0,-1
+Natural Science Foundation of Hebei Province,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Erasmus Universitair Medisch Centrum Rotterdam,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Javna Agencija za Raziskovalno Dejavnost RS,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Faculty of Medical Science, Naresuan University",1,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,2,0,0,0,1,-1
+Pibulsongkram Rajabhat University,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1
+Comisión Nacional de Investigación Científica y Tecnológica,2,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,0,-1
+Dongguk University,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Centre for Research on Intermediality, University of Montreal",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+Kaohsiung Medical University Chung-Ho Memorial Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Aoyama Gakuin University,0,0,0,0,1,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0
+Rajamangala University of Technology Lanna,0,0,0,0,1,0,0,0,0,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0
+Daimler und Benz Stiftung,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,-1
+OeAD-GmbH,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Natural Science Foundation of Shandong Province,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Light Metal Educational Foundation,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Research Promotion and Technology Transfer Center,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Taipei Veterans General Hospital,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Research Grants Council, University Grants Committee",2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Department of Families, Housing, Community Services and Indigenous Affairs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+"Ministry of Science and Technology, Israel",0,0,1,3,3,0,0,0,0,0,2,0,0,0,1,0,0,0,0,3,0,0,0,-1
+Excellent Young Talents Fund Program of Higher Education Institutions of Anhui Province,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Key Scientific Research Project of Colleges and Universities in Henan Province,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Mushroom Research Foundation,0,0,0,1,0,0,0,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0,0,-1
+European Commission,0,0,1,3,3,2,0,0,0,2,2,1,2,0,3,0,2,0,3,5,1,0,0,-1
+"Medicinska fakulteten, Umeå Universitet",0,3,1,0,0,0,0,0,0,0,0,2,0,0,14,1,0,0,1,0,0,2,0,-1
+Bijzonder Onderzoeksfonds UGent,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,-1
+WWF-Thailand,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,-1
+Tokyo Medical and Dental University,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,14
+Food and Health Bureau,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,-1
+Center of Excellence on Petrochemical and Materials Technology,0,0,5,7,7,0,0,1,1,6,1,0,11,0,0,0,0,0,0,2,0,0,0,-1
+"Ministry of the Environment, Government of Japan",0,0,0,0,0,3,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Singapore University of Technology and Design,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Singapore Police Force,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+BT Group,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9
+Alzheimer Nadační Fond,1,4,1,3,0,0,0,0,0,0,2,0,0,0,2,0,1,1,0,0,0,3,0,-1
+"Department of Biotechnology, Government of West Bengal",2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+Periyar University,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Kementerian Sumber Asli dan Alam Sekitar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Department of National Parks, Wildlife and Plant Conservation",2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,12
+Asean University Network,0,1,0,1,0,2,0,1,1,7,1,0,0,0,0,0,0,0,0,1,0,2,0,-1
+Jacobs Research Funds,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1
+"Centre of Excellence for Electromaterials Science, Australian Research Council",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+Muséum National d'Histoire Naturelle,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Natural History Museum,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Bulgarian National Science Fund,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,14,0,0,0,-1
+Ono Pharmaceutical,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2
+Wuhan University,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,-1
+Department of Mines and Petroleum,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Economic History Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"National Plan for Science, Technology and Innovation",0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,1,0,0,0,0
+Kyushu University,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Japan Society for the Promotion of Science London,2,0,2,2,3,0,0,0,0,2,0,0,2,0,0,0,1,0,0,2,2,0,0,-1
+Jerusalem College of Technology - Lev Academic Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+University of Manchester,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+IVL Svenska Miljöinstitutet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Sirindhorn International Institute of Technology, Thammasat University",0,0,1,1,1,0,0,0,0,2,1,0,2,0,1,1,0,0,0,2,0,1,0,-1
+"National Plan for Science,Technology and Innovation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Deakin University,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,1,0,1,0,0,1
+National Taiwan University,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,12
+Korea Foundation for Advanced Studies,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,3,0,-1
+Cancer Research UK,0,0,3,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,-1
+Istituto Nazionale per l'Assicurazione Contro Gli Infortuni sul Lavoro,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,19
+"Research School, Ruhr University Bochum",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Uniwersytet Medyczny w Lodzi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,13
+Macquarie University,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Munich Institute for Astro- and Particle Physics,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+South China Normal University,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,14
+University of Ghana,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"Faculty of Veterinary Medicine, Chiang Mai University",3,0,0,0,0,0,0,0,0,0,3,1,0,0,2,0,0,0,0,0,0,0,1,-1
+State Key Laboratory of Loess and Quaternary Geology,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+The Research Council,1,0,1,6,13,0,0,0,0,1,3,0,5,0,0,0,0,0,0,2,0,0,0,-1
+Strategic International Collaborative Research Program,0,1,0,0,1,1,0,0,0,5,0,0,4,0,0,0,0,0,0,1,0,2,0,-1
+"Department of Microbiology, Faculty of Science, Chulalongkorn University",24,4,36,14,49,17,5,10,10,29,24,17,16,4,44,21,7,5,19,13,0,12,5,18
+"Faculty of Information and Communication Technology, Mahidol University",0,0,4,2,16,2,0,0,0,4,0,1,3,2,5,2,0,0,3,0,0,0,0,-1
+"Department of Physiology, Mahidol University",0,0,4,2,16,2,0,0,0,4,0,5,3,2,9,4,0,0,4,0,0,0,0,-1
+Heinrich-Heine-Universität Düsseldorf,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Medizinische Fakultät, Heinrich-Heine-Universität Düsseldorf",0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+British Council,1,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Faculty Of Dentistry, Thammasat University",0,0,1,1,1,0,0,0,0,2,1,0,2,0,0,2,0,0,0,2,0,1,0,-1
+"Deanship of Scientific Research, King Saud University",1,0,2,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,2,0,0,0,-1
+"Agency for Science, Technology and Research",0,0,0,0,0,2,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,19
+Science and Technology Commission of Shanghai Municipality,0,0,1,1,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,-1
+Toyota Physical and Chemical Research Institute,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Research Institute for Humanity and Nature,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,7
+Riksbankens Jubileumsfond,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1
+Medical Research Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Centro de Investigação em Ciências Sociais,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Science and Engineering Research Board,0,0,1,1,5,1,0,0,0,0,8,0,0,0,0,0,0,0,0,1,0,0,0,-1
+"Parents and Professors' Association, Kitasato University School of Medicine",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Kitasato University,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Institute of Research Management and Innovation, Universiti Teknologi MARA",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,1,0,0,0,3
+Thailand Institute of Nuclear Technology,1,0,1,0,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,-1
+Consejo Superior de Investigaciones Científicas,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16
+Russian Science Foundation,0,0,1,1,4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,-1
+Universitas Diponegoro,0,0,0,2,1,1,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+SSN Educational and Charitable Trust,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Ministry of Human Resource Development,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Shenzhen Peacock Plan,0,0,0,0,2,0,0,0,2,1,0,0,6,0,0,0,0,0,0,2,0,0,0,-1
+"Ministry of Higher Education, Science, Research and Innovation, Thailand",2,0,2,2,3,3,0,0,3,2,14,1,2,0,1,1,0,0,0,11,0,1,0,-1
+Universitas Surabaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+Erasmus Medisch Centrum,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Vikram Sarabhai Space Centre,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ZonMw,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,2,0,0,1
+Alzheimer's Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,4,0,0,1
+Fundação Araucária,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Precursory Research for Embryonic Science and Technology,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,-1
+Israel Science Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,-1
+Norges Forskningsråd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Nemzeti Kutatási, Fejlesztési és Innovaciós Alap",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,4
+Centro de Astrofísica y Tecnologías Afines,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,12
+Universidade de Lisboa,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,12
+Det Frie Forskningsråd,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1
+"Center for Advanced Studies for Agriculture and Food, KU Institute for Advanced Studies, Kasetsart University",2,0,1,2,2,0,0,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,-1
+"Graduate School, Kasetsart University",2,0,1,2,2,0,0,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,-1
+"Faculty of Applied Science, King Mongkut's University of Technology North Bangkok",0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+"Li Ka Shing Faculty of Medicine, University of Hong Kong",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+University of Hong Kong,0,0,1,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,3
+"University Research Committee, University of Hong Kong",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Natural Science Foundation of Liaoning Province,0,0,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0,-1
+Dalian Science and Technology Bureau,0,0,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,0,0,-1
+Liaoning Revitalization Talents Program,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,17
+"Institute for Frontier Materials, Deakin University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"School of Life and Environmental Sciences, Deakin University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Institut des Sciences du Cerveau de Toulouse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Rajamangala University of Technology Thanyaburi,0,3,0,0,0,0,0,0,3,0,1,0,0,0,3,0,0,0,0,0,0,1,0,-1
+Agrupación Española de Entidades Aseguradoras de los Seguros Agrarios Combinados S.A.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Science, Technology and Innovation Commission of Shenzhen Municipality",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Fujian Agriculture and Forestry University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+School of Aerospace Science and Technology,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,-1
+Shenzhen Technical Project,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+National Science Fund for Distinguished Young Scholars,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,-1
+Universiteit Stellenbosch,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,-1
+Natural Science Foundation of Jiangsu Province,2,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Jane ja Aatos Erkon Säätiö,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,14
+Svensk Kärnbränslehantering,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,14
+Narodowa Agencja Wymiany Akademickiej,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+"Philippine Council for Industry, Energy, and Emerging Technology Research and Development",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Ministère de l'Enseignement Supérieur et de la Recherche Scientifique,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+Instituto Superior Técnico,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Rijksuniversiteit Groningen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2
+Siemens,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,1,0,0,0,-1
+Universitair Medisch Centrum Groningen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2
+Department of Science and Technology of Sichuan Province,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Monash University Malaysia,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Royal Geographical Society,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,-1
+Skolkovo Institute of Science and Technology,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,2,0,0,0,-1
+Canadian Cancer Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,5
+Canadian Cancer Society,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,5
+Asian Institute of Technology,2,0,0,0,0,0,0,1,0,0,6,2,2,0,0,0,0,0,0,0,0,0,0,-1
+Dalian Institute of Chemical Physics,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,17
+Alzheimer's Research Trust,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+UCLH Biomedical Research Centre,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Seventh Framework Programme,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Taif University,0,0,0,0,0,3,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+British Academy,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,-1
+"Ministério da Ciência, Tecnologia e Ensino Superior",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Center of Excellence in Theoretical and Computational Science, King Mongkut's University of Technology Thonburi",0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2,0,0,0,-1
+Università degli Studi di Palermo,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Dalian Medical University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10
+"Malaysia Japan International Institute of Technology, Universiti Teknologi Malaysia",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+National Taipei University of Technology,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0
+Iketani Science and Technology Foundation,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"Kierunek Kosmetologia, Wydzial Farmaceutyczny, Uniwersytet Medyczny w Lodzi",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+Nipponham Foundation,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Staatssekretariat für Bildung, Forschung und Innovation",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,-1
+Sichuan University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6
+International Sweeteners Association,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+Agência Nacional de Inovação,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Stiftelsen för Strategisk Forskning,0,0,0,0,1,1,0,0,0,1,0,0,2,1,0,0,0,0,0,3,0,0,0,-1
+Stockholms Universitet,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Bio-oriented Technology Research Advancement Institution,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+All-India Institute of Medical Sciences,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+CAS Center for Excellence in Particle Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,6
+Lomonosov Moscow State University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,6
+Wuyi University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,6
+Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,7
+Canada Research Chairs,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,-1
+Government of Canada,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Osaka University of Economics,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,19
+European Cooperation in Science and Technology,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,13,0,0,0,-1
+Australian Library and Information Association,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,19
+KU Leuven,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,-1
+"Institut Alam Sekitar dan Pembangunan, Universiti Kebangsaan Malaysia",0,0,1,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,16
+"Pusat Penyelidikan Automotif, Universiti Kebangsaan Malaysia",0,0,1,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,16
+"Faculty of Pharmacy, Cairo University",0,0,3,1,0,0,0,0,0,0,0,5,0,0,2,0,0,0,1,0,0,0,0,-1
+"Ministério da Agricultura, Pecuária e Abastecimento",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Istituto Nazionale Tumori IRCCS Fondazione G. Pascale""""",0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,16
+Centre for Mental Health and Wellbeing Research,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Universitas Brawijaya,2,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+Guizhou Institute of Technology,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+University of Alberta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+Pontificia Universidad Javeriana,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,7
+Tekniikan Akatemia,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,7
+Universidad de Magallanes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,7
+Singapore Management University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7
+H. Lundbeck A/S,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,0,0,0,0,0,0,5
+Meat and Livestock Australia,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+Cancer Council Victoria,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+National Heart Foundation of Australia,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+"Dirección General de Asuntos del Personal Académico, Universidad Nacional Autónoma de México",3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0,4
+Universidade Tecnológica Federal do Paraná,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"Bundesministerium für Bildung, Wissenschaft und Forschung",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,6
+Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,6
+Kementerian Pendidikan Malaysia,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,15,0,0,0,6
+Laboratorio Nacional de Supercómputo del Sureste de Mexico,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,6
+"Ministry of Science,Technology and Research",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,6
+"National Research Center Kurchatov Institute""""",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,6
+Research and Innovation Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,6
+Stavros Niarchos Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,6
+Latvijas Zinātnes Padome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,6
+Ministry of Science and Higher Education of the Russian Federation,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,5,0,0,0,0
+Beijing Municipal Science and Technology Commission,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,6
+Fiona Wood Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,6
+Nanjing University,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Natural Science Foundation of Ningxia Province,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Materials Science Research Center, Faculty of Science, Chiang Mai University",3,0,0,0,0,0,0,0,0,0,3,1,0,0,2,0,0,0,0,0,0,0,0,-1
+"Department of Chemistry, Faculty of Science, Chiang Mai University",3,0,0,0,0,0,0,0,0,0,3,1,0,0,2,0,0,0,0,0,0,0,0,-1
+"Faculty of Agro-Industry, Chiang Mai University",3,0,0,0,0,0,0,0,0,0,3,1,0,0,2,0,0,0,0,0,0,0,0,-1
+"Faculty of Science, Chiang Mai University",4,0,0,0,0,0,0,0,0,0,4,3,0,0,2,0,0,0,0,0,0,0,0,-1
+"Functional Food Research Center for Well-being, Chiang Mai University",3,0,0,0,0,0,0,0,0,0,3,1,0,0,2,0,0,0,0,0,0,0,0,-1
+"Graduate School, Chiang Mai University",3,0,0,0,0,0,0,0,0,0,3,1,0,0,2,0,0,0,0,0,0,0,0,-1
+"Consejería de Educación, Junta de Castilla y León",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Consejería de Educación, Juventud y Deporte, Comunidad de Madrid",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Consejería de Educación, Universidades y Sostenibilidad, Gobierno de Canarias",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Conselleria d'Educació, Investigació, Cultura i Esport",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Engineering Research Center of Large Scale Reactor Engineering and Technology, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Engineering Research Center of Nano-Geomaterials, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Instituto Federal de Alagoas, Ministério da Educação",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Kementerian Pendidikan,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory for Photonic and Electric Bandgap Materials, Ministry of Education, Harbin Normal University",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of Advanced Control and Optimization for Chemical Processes,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Advanced Materials Processing Technology, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of Advanced Reactor Engineering and Safety of Ministry of Education,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of Automotive Materials,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of Autonomous Systems and Network Control,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Chemical Biology and Traditional Chinese Medicine Research, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Ecology and Energy-saving Study of Dense Habitat (Tongji University), Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of Econometrics,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Engineering Dielectrics and Its Application (Harbin University of Science and Technology), Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Fluid and Power Machinery, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of Functional Inorganic Materials Chemistry Ministry of Education,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Geospace Environment and Geodesy, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Geotechnical and Underground Engineering, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of High-Performance Fiber and Product, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of Highway Engineering Ministry of Education in Special Areas,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Industrial Internet of Things and Networked Control, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Information Storage System, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of Medical Electrophysiology of Ministry of Education,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Micro-Systems and Micro-Structures Manufacturing, Ministry of Education, Harbin Institute of Technology",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of System Control and Information Processing,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of Trustworthy Distributed Computing and Service of Ministry of Education,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Ultraviolet Light Emitting Materials and Technology, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Key Laboratory of Universal Wireless Communications of Ministry of Education,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Virtual Geographic Environment (Nanjing Normal University), Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Ministerio de Educación de la Nación,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministerium für Bildung, Wissenschaft und Kultur Mecklenburg-Vorpommern",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Ministry of Education Key Laboratory for Oil and Gas Equipment,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Tectonics and Petroleum Resources, Ministry of Education, China",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Myocardial Ischemia, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Safe Mining of Deep Metal Mines, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Key Laboratory of Synthetic and Biological Colloids, Ministry of Education",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministerio de Educación, Cultura y Deporte",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministerio de Educación, Gobierno de Chile",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministero dell’Istruzione, dell’Università e della Ricerca",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministrstvo za Izobraževanje, Znanost in Šport",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministry of Education, British Columbia",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministry of Education, Government of the People's Republic of Bangladesh",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministry of Education, Kenya",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministerie van Onderwijs, Cultuur en Wetenschap",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Ministry of Education, Lifelong Learning and Religious Affairs",2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Ministry of Education- New Zealand,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Ministère de l'Éducation Nationale,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+"Animal Biotechnology Center, National Chung Hsing University",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Rheinische Friedrich-Wilhelms-Universität Bonn,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Clinical Ageing Research Unit, Newcastle University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Faculty of Medical Sciences, Newcastle University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"School of Natural and Environmental Sciences, Newcastle University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Faculty of Science, Agriculture and Engineering, Newcastle University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,-1
+Newcastle University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Department of Animal Science, Faculty of Agriculture, Khon Kaen University",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,-1
+"Mekong Health Science Research Institute, Khon Kaen University",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,-1
+"Integrated Nanotechnology Research Center, Khon Kaen University",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,-1
+Beiersdorf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Universitas Sultan Ageng Tirtayasa,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Universidad de La Frontera,1,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,-1
+Deutsche Parkinson Vereinigung,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Efficacy and Mechanism Evaluation Programme,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Ministerio de Ciencia e Innovación,0,0,1,0,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Federal State Budget Scientific Institution Research Institute - Republican Research and Consulting Center of Expertise,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Agriculture and Agri-Food Canada,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Erasmus+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+ExxonMobil Foundation,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Onderzoeksraad, KU Leuven",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Università degli Studi di Sassari,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Faculty of Science, Prince of Songkla University",2,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,-1
+"Graduate School, Prince of Songkla University",7,0,3,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,3,-1
+Charles Darwin University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,10
+Natural Science Foundation of Fujian Province,1,0,2,1,1,0,0,1,0,1,3,0,0,0,6,1,0,0,0,0,0,0,0,-1
+West Light Foundation of the Chinese Academy of Sciences,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16
+South African Medical Research Council,0,0,2,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,-1
+Aberystwyth University,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-1
+Eisai,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,5
+VIT University,0,0,0,0,4,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,-1
+Cairo University,0,0,3,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,-1
+"National Cancer Institute, Cairo University",0,0,3,1,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,-1
+"Faculty of Computers and Information, Cairo University",0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+"Faculty of Science, Cairo University",0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+Kementerian Pendidikan Nasional,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Lembaga Penelitian dan Pengabdian Kepada Masyarakat,5,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+University of Aberdeen,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+"Consejo Nacional de Ciencia y Tecnología, Paraguay",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+Vlaamse regering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Strategic Wisdom and Research Institute, Srinakharinwirot University",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Marsden Fund,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Faculti Sains, Universiti Putra Malaysia",0,0,1,1,5,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,16
+"Fakulti Perubatan dan Sains Kesihatan, Universiti Putra Malaysia",0,0,1,1,5,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,16
+"Fakulti Pertanian, Universiti Putra Malaysia",0,0,1,1,5,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,16
+"Institut Teknologi Maju, Universiti Putra Malaysia",0,0,1,1,5,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,16
+"Department of Scientific and Industrial Research, Ministry of Science and Technology, India",0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,14
+"Institute for Information Industry, Ministry of Science and Technology, Taiwan",2,0,1,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,-1
+Ministerio de Ciencia y Tecnología,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,14
+"Ministerio de Ciencia y Tecnología, Gobierno de la Provincia de Córdoba",0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,14
+"Ministry of Science and Technology, Government of the People’s Republic of Bangladesh",0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,14
+"Ministry of Science and Technology, Croatia",0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,14
+"National Key New Drug Creation and Manufacturing Program, Ministry of Science and Technology",0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,14
+Institut National de la Santé et de la Recherche Médicale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Fondation Leducq,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,4
+Yeungnam University,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation",0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,-1
+Universitas Negeri Malang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0,1,0,10
+National Taiwan Ocean University,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Indian Council of Medical Research,0,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+Coordinación de la Investigación Científica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,2,0,0,0,4
+Generalitat Valenciana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,5,0,0,0,4
+Northern Border University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10
+Rajamangala University of Technology Srivijaya,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1
+Rajamangala University of Technology Suvarnabhumi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Al-Amodi Autism Research Chair, King Saud University",1,0,2,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,0,-1
+"College of Dentistry, King Saud University",1,0,2,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,0,-1
+"College of Medicine, King Saud University",1,0,2,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,0,-1
+"Female Center for Scientific and Medical Colleges, King Saud University",1,0,2,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,0,-1
+"Research Center of the College of Computer and Information Sciences, King Saud University",1,0,2,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,0,-1
+King Khalid University,0,0,0,0,0,3,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,1,0,-1
+"Research Center for Advanced Materials Science, King Khalid University",0,0,0,0,0,3,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Silesian University of Technology,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,17
+Korea Basic Science Institute,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,9
+Yildiz Teknik Üniversitesi,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+CHILDREN with CANCER UK,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Iran National Science Foundation,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Royal College of Physicians,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+undefined,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Diabetesforbundet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Agencia Nacional de Investigación y Desarrollo,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,14
+Hunan Provincial Innovation Foundation for Postgraduate,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Ministère de l’Enseignement Supérieur, de la Recherche Scientifique et des Technologies de l'Information et de la Communication",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Ministère de l'Enseignement Supérieur, de la Recherche Scientifique et de la Formation des Cadres",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Ministry of Higher Education, Egypt",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Ministère de l'Enseignement Supérieur, Republique du Cameroun",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Cultural Affairs and Missions Sector, Ministry of Higher Education",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Ministrstvo za visoko šolstvo, znanost in tehnologijo",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Universitas Padjadjaran,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,13
+Khon Kean University,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,3
+European Organisation for Research and Treatment of Cancer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10
+Genome Institute of Singapore,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Fakultas Teknik Universitas Indonesia,0,0,0,1,0,10,0,0,0,5,0,0,3,1,0,0,0,0,0,1,0,0,0,-1
+Nantong University,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Islamic Development Bank,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Fundación Josep Carreras Contra la Leucemia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Research Institute for Microbial Diseases, Osaka University",0,0,3,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,-1
+National Eye Research Centre,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,14
+"College of Arts, Society and Education, James Cook University",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14
+James Cook University,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14
+"College of Medicine and Dentistry, James Cook University",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14
+Social Sciences and Humanities Research Council of Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1
+Viet Nam National University Ho Chi Minh City,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,14
+Chung Shan Medical University,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Jining Medical University,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Consiliul National al Cercetarii Stiintifice,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,3
+Think-Tank Mutual Fund of Qingdao Energy Storage Industry Scientific Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Korea Human Resource Development Institute for Health and Welfare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+American University of Sharjah,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Universidad San Francisco de Quito,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+Universidad de Murcia,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,15
+Action Medical Research,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,-1
+Fundação Oswaldo Cruz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1
+Institute of Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Institute for Cosmic Ray Research, University of Tokyo",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4
+Fundación General CSIC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,4
+Consejo Tamaulipeco de Ciencia y Tecnología,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,4
+"Pró-Reitoria de Pesquisa, Universidade Federal do Rio Grande do Sul",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,4
+Programme Development Grants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,4
+"Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Deutsches Elektronen-Synchrotron,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Instituto de Física de Cantabria,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,-1
+Institute of High Energy Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Institut National de Physique Nucléaire et de Physique des Particules,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Korea Institute of Science and Technology Information,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Quaid-i-Azam University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Royal Holloway, University of London",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Université Catholique de Louvain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Universidade do Estado do Rio de Janeiro,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Università di Pisa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Tata Institute of Fundamental Research,4,0,3,1,4,1,0,0,1,1,1,0,0,0,2,1,0,1,0,1,0,0,0,-1
+Orta Doğu Teknik Üniversitesi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+RWTH Aachen University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Sapienza Università di Roma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+University of Glasgow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Université Paris-Saclay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+"Wigner Fizikai Kutatóközpont, Magyar Tudományos Akadémia",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Department of Environmental Affairs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+State Key Laboratory of Membrane Biology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Deutsches Rote Kreuz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Toronto Arts Council,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Cancerfonden,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Stockholms Läns Landsting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Canada Foundation for Innovation,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Alzheimer’s Research UK,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,5
+University Grants Committee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Shahid Chamran University of Ahvaz,0,0,0,1,0,2,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,19
+Taipei Medical University,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+New Energy and Industrial Technology Development Organization,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+New Energy and Industrial Technology Development Organization,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Tianjin University,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Geo-Informatics and Space Technology Development Agency,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,2,0,7
+"Centro de Instrumentação, Universidade de Coimbra",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+5511 Science and Technology Innovation Talent Project of Jiangxi Province,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Madurai Kamaraj University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Hitachi Global Foundation,0,0,0,0,1,0,0,0,0,2,4,0,2,0,0,0,0,0,0,0,0,0,0,-1
+Malaysia Toray Science Foundation,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1
+"Cátedra Telefónica, Universidad de Oviedo",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+University of Science and Technology Beijing,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Natural Science Foundation of Guangdong Province,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+Netherlands Space Office,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+Suan Sunandha Rajabhat University,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Institute of Molecular and Cell Biology,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,3
+Universitas Gadjah Mada,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,-1
+Kajima Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,7
+University of London,0,0,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,-1
+Forsvarsdepartementet,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Sun Yat-sen University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Joseph Rowntree Foundation,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+King Abdullah International Medical Research Center,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+National Center for Research and Development,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Science and Technology Development Fund,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Kidney Research UK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"College of Advanced Manufacturing Innovation, King Mongkut’s Institute of Technology Ladkrabang",0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Aard- en Levenswetenschappen, Nederlandse Organisatie voor Wetenschappelijk Onderzoek",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Nederlandse Organisatie voor Wetenschappelijk Onderzoek,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Artificial Intelligence and Data Analytics Lab, Prince Sultan University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Prince Sultan University,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Eberhard Karls Universität Tübingen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Fonds de Recherche du Québec - Santé,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+"Canadian HIV Trials Network, Canadian Institutes of Health Research",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Ministry of SMEs and Startups,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Commonwealth Scientific and Industrial Research Organisation,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,14
+National Science and Technology Council,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,-1
+Nemzeti Kutatási Fejlesztési és Innovációs Hivatal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,6
+Hellenic Foundation for Research and Innovation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,6
+Board of the Swiss Federal Institutes of Technology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+Human Resource Development Group,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,-1
+National University Health System,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Daiichi Sankyo Europe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Deutsches Primatenzentrum,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Georg-August-Universität Göttingen,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"Melbourne Institute, University of Melbourne",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Office of National Higher Education Science Research and Innovation Policy Council,0,0,4,2,5,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Dansk Nefrologisk Selskab,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Cancer Council NSW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,2
+"Institute of Research and Innovation, Walailak University",0,0,1,1,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Chettinad Academy of Research and Education,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+ITI Foundation,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Ministry of Health and Welfare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2
+Distinguished Middle-Aged and Young Scientist Encourage and Reward Foundation of Shandong Province,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Politechnika Poznańska,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+University of Science and Technology of China,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Yancheng Agricultural Science and Technology,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Universidad Carlos III de Madrid,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,-1
+"College of Food and Agriculture Sciences, King Saud University",0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,-1
+GlaxoSmithKline Australia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Daegu Gyeongbuk Institute of Science and Technology,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Universiti Teknologi MARA,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Catholic University of Daegu,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Chitkara University,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Concordia University,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Çukurova Üniversitesi,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+State Key Laboratory of Estuarine and Coastal Research,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,14
+International Foundation for Science,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,14
+Yakult Honsha,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Daiichi-Sankyo,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+PharmaMar,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Shionogi,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Terumo,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Korea Atomic Energy Research Institute,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+University of Science and Technology Liaoning,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0
+European Society for Clinical Nutrition and Metabolism,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,10
+"Faculty of Veterinary Medicine, Kasetsart University",3,0,0,1,1,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,1,-1
+National Synchrotron Radiation Research Center,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6
+International Islamic University Malaysia,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+"Research Management Centre, International Islamic University Malaysia",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+"Department of Chemical Engineering, Universiti Teknologi Petronas",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+"Iing Co., Ltd.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+Ministry of National Education and Religious Affairs,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16
+University Grants Commission - South Eastern Regional Office,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Biotronik,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Norges Miljø- og Biovitenskapelige Universitet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Health Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"Hsinchu Science Park Bureau, Ministry of Science and Technology, Taiwan",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Southern Federal University,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16
+Merz Pharmaceuticals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Scion,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Sun Pharma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Axencia Galega de Innovación,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+Centro de Estudios de Conflicto y Cohesión Social,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+Australian Research Council Centre of Excellence in Advanced Molecular Imaging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+"Centre of Excellence in Cognition and its Disorders, Australian Research Council",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+"Centre of Excellence for Particle Physics at the Terascale, Australian Research Council",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+"Centre of Excellence for Quantum Computation and Communication Technology, Australian Research Council",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+"Centre of Excellence for Coherent X-Ray Science, Australian Research Council",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+"Centre of Excellence in Future Low-Energy Electronics Technologies, Australian Research Council",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+"Training Centre for Food and Beverage Supply Chain Optimisation, Australian Research Council",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+"Institute for Advanced Studies, Kasetsart University",0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9
+Korea University Business School,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+"Institute of Biomaterials and Bioengineering, Tokyo Medical and Dental University",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Shaqra University,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,-1
+Bundesministerium für Gesundheit,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+"Cholangiocarcinoma Research Institute, Khon Kaen University",0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13
+"James Watt School of Engineering, University of Glasgow",0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,19
+Council for Higher Education,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+"Department of Physics and Materials Science, Faculty of Science, Chiang Mai University",1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,-1
+"Faculty of Economics, Chiang Mai University",1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,-1
+International Wildlife Veterinary Services,0,0,1,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,3
+Kowa Life Science Foundation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+Terumo Foundation for Life Sciences and Arts,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13
+Uniscientia Foundation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+"BHF Centre of Research Excellence, Oxford",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Universidade do Porto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1
+Adaptable and Seamless Technology Transfer Program through Target-Driven R and D,0,0,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Fundação de Amparo à Pesquisa do Estado da Bahia,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"Ministry of Energy, Thailand",0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Royal Academy of Engineering,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Royal National Institute for Deaf People,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+Seconda Università degli Studi di Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Région Auvergne-Rhône-Alpes,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,-1
+Neurosciences Foundation,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3
+"School of Science, Monash University Malaysia",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+Bundesinstitut für Risikobewertung,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Beijing Union University,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+National Synchrotron Radiation Laboratory,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+Eisai Canada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,5
+AstraZeneca Pharma Poland,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Kementerian Pendidikan dan Kebudayaan,1,0,0,0,0,0,0,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+Cancer Australia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,13
+Ministero della Salute,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+"Kementerian Riset, Teknologi dan Pendidikan Tinggi",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+Swinburne University of Technology,0,0,0,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,9
+Consortium of International Agricultural Research Centers,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,14
