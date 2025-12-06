@@ -23,13 +23,11 @@ Thumbs.db
 
 resources/data/raw/*
 resources/data/raw/uncombined/*
-resources/models/*
 resources/plots/*
 
 !resources/data/raw/uncombined
 !resources/data/raw/uncombined/.gitkeep
 !resources/data/raw/.gitkeep
-!resources/models/.gitkeep
 !resources/plots/.gitkeep
 
 src/data/cookie
