@@ -4,10 +4,10 @@
 
 ## Group Members
 
-1. FirstName LastName #67//////21
-2. FirstName LastName #67//////21
-3. FirstName LastName #67//////21
-4. FirstName LastName #67//////21
+1. Warit Suntrarom #6738233121
+2. Phukla Jeerawattana #6738159421
+3. Porrapat Lomsomboon #6738137621
+4. Yanathep Prasitsomsakul #6738067321
 
 *<sup>"ChatGPT is all you need."  - Some Article</sup>*
 
