@@ -62,7 +62,6 @@ for(const author of Object.values(authors)){
 
 fs.writeFileSync(path.join(resourcePath, "processed", "authors_unfiltered.json"), JSON.stringify(authors));
 
-//mode for generating unique_author_ids.json
-// fs.writeFileSync(path.join(resourcePath, "processed", "./unique_author_ids.json"), JSON.stringify(Object.keys(authors)))
+fs.writeFileSync(path.join(resourcePath, "processed", "unique_author_ids.json"), JSON.stringify(Object.keys(authors)))
 
 
