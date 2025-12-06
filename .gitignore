@@ -22,12 +22,10 @@ Thumbs.db
 *.log
 
 resources/data/raw/*
-resources/data/processed/*
 resources/models/*
 resources/plots/*
 
 !resources/data/raw/.gitkeep
-!resources/data/processed/.gitkeep
 !resources/models/.gitkeep
 !resources/plots/.gitkeep
 
