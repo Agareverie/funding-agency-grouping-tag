@@ -6,7 +6,6 @@ import plotly.express as px
 
 st.sidebar.header("Parameters")
 
-# Will switch to a proper enum/union system later
 categories = [
     "AGRI",
     "ARTS",
@@ -104,21 +103,29 @@ if st.session_state.slice_selection is not None and st.session_state.slice_selec
     st.header("Clustering Results")
     response_slice = st.session_state.slice_selection["slice"]
 
-    visualized_grant_data = pd.DataFrame(response_slice).drop(columns="grant_name")
+    visualized_grant_data = pd.DataFrame(response_slice)
 
     # Take log
     visualized_grant_data[["x", "y"]] = visualized_grant_data[["x", "y"]] + 1
     visualized_grant_data[["x", "y"]] = visualized_grant_data[["x", "y"]].apply(np.log)
 
     aggregated_data = (
-        visualized_grant_data.groupby(["x", "y", "cluster"]).size().reset_index(name="plot_size")
-    )
+    visualized_grant_data
+        .groupby(["x", "y", "cluster"])
+        .agg(
+            plot_size=("cluster", "size"),
+            grant_names=("grant_name", lambda s: "<br>".join(s[:20]))
+        )
+        .reset_index()
+)
+
     scatter_plot = px.scatter(
         aggregated_data,
         x=aggregated_data.x,
         y=aggregated_data.y,
         color=aggregated_data.cluster.map(cluster_labels),
         labels={"x": st.session_state.slice_selection["x"], "y": st.session_state.slice_selection["y"], "color": "cluster"},
+        hover_data={"grant_names": True},
         color_discrete_map=cluster_colors,
         size=aggregated_data.plot_size,
         size_max=40,
