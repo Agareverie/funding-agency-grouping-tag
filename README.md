@@ -16,7 +16,7 @@ _<sup>"ChatGPT is all you need." - Some Article</sup>_
 
 ## Using Conda & Pip
 
-Inside the project directory, in order to create the virtual environment, use
+_Inside_ the project directory (`cd` into the project directory first if using Conda Prompt), in order to create the virtual environment, use
 this command (in the Conda Prompt if on Windows).
 
 ```bash
