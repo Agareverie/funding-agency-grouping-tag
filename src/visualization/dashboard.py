@@ -58,27 +58,27 @@ cluster_labels = {
 
 
 cluster_colors = {
-    "Unclustered": "#A0A0A0",  # Unclustered
-    "Materials Science, Physics and Engineering": "#1F77B4",  # Materials/Physics/Engineering
-    "Psychology": "#FF7F0E",  # Psychology
-    "Biochemistry": "#2CA02C",  # Biochemistry
-    "Immunology and Microbiology": "#D62728",  # Immunology/Microbiology
-    "Multidisciplinary": "#9467BD",  # Multidisciplinary
-    "Neuroscience": "#8C564B",  # Neuroscience
-    "Physics": "#17BECF",  # Physics
-    "Social Sciences": "#BCBD22",  # Social Sciences
-    "Agricultural Science": "#8FD175",  # Agricultural Science
-    "Chemical Engineering": "#FF9896",  # Chemical Engineering
-    "Nursing": "#AEC7E8",  # Nursing
-    "Chemistry": "#1F77B4",  # Chemistry
-    "Earth Science": "#9EDAE5",  # Earth Science
-    "Pharmacology": "#E377C2",  # Pharmacology
-    "Environmental Science": "#2E8B57",  # Environmental Science
-    "Veterinary Science": "#C49C94",  # Veterinary Science
-    "Chemistry, Pharmacology and Biochemistry": "#7F7F7F",  # Chem/Pharm/Biochem mix
-    "Energy and Engineering": "#4E79A7",  # Energy/Engineering
-    "Generalists": "#F7B6D2",  # Generalists/Medical mix
-    "Computer Science and Math": "#4C72B0",  # Computer Science & Math
+    "Unclustered": "#A0A0A0",
+    "Materials Science, Physics and Engineering": "#1F77B4",
+    "Psychology": "#FF7F0E",
+    "Biochemistry": "#2CA02C",
+    "Immunology and Microbiology": "#D62728",
+    "Multidisciplinary": "#9467BD",
+    "Neuroscience": "#8C564B",
+    "Physics": "#17BECF",
+    "Social Sciences": "#BCBD22",  
+    "Agricultural Science": "#8FD175",
+    "Chemical Engineering": "#FF9896",
+    "Nursing": "#AEC7E8",
+    "Chemistry": "#1F77B4",
+    "Earth Science": "#9EDAE5",
+    "Pharmacology": "#E377C2",
+    "Environmental Science": "#2E8B57",
+    "Veterinary Science": "#C49C94",
+    "Chemistry, Pharmacology and Biochemistry": "#7F7F7F",
+    "Energy and Engineering": "#4E79A7",
+    "Generalists": "#F7B6D2",
+    "Computer Science and Math": "#4C72B0",
 }
 
 
